@@ -3,25 +3,46 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-10T15:39:35-07:00</updated>
+    <updated>2022-09-10T15:43:16-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
     <id>https://rightsok.github.io/fotb</id>
 
     <entry>
+        <title>heroes around album release</title>
+        <author>
+            <name>the bear</name>
+        </author>
+        <link href="https://rightsok.github.io/fotb/heroes-around-album-release.html"/>
+        <id>https://rightsok.github.io/fotb/heroes-around-album-release.html</id>
+
+        <updated>2022-09-10T15:43:16-07:00</updated>
+            <summary>
+                <![CDATA[
+                    the where: high dive, seattle, wa the when: august 27th, 2022 ...you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong><span style="color: #8c864c;">the where:</span></strong> high dive, seattle, wa<br><strong><span style="color: #8c864c;">the when:</span></strong> august 27th, 2022</p>
+<p>...you missed it - but watch it below</p>
+<figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/Tvgx7PzUIZk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>the videos</title>
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://rightsok.github.io/fotb/media-2.html"/>
-        <id>https://rightsok.github.io/fotb/media-2.html</id>
+        <link href="https://rightsok.github.io/fotb/the-videos.html"/>
+        <id>https://rightsok.github.io/fotb/the-videos.html</id>
 
-        <updated>2022-09-10T15:39:35-07:00</updated>
+        <updated>2022-09-10T15:42:09-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rightsok.github.io/fotb/media/posts/13/bear_recording.jpg" alt="" />
                 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/Tvgx7PzUIZk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/feE8BJPxc1c" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/l3aeCc5ib_k" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
@@ -184,28 +205,6 @@
             <![CDATA[
                     <img src="https://rightsok.github.io/fotb/media/posts/5/bear_selling.jpeg" alt="" />
                 <p>hoodies, tees, stickers, cds, vinyl, <span style="text-decoration: line-through;">bears,</span> we got it</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>heroes around album release</title>
-        <author>
-            <name>the bear</name>
-        </author>
-        <link href="https://rightsok.github.io/fotb/heroes-around-album-launch.html"/>
-        <id>https://rightsok.github.io/fotb/heroes-around-album-launch.html</id>
-
-        <updated>2022-09-09T14:42:17-07:00</updated>
-            <summary>
-                <![CDATA[
-                    the where: high dive, seattle, wa the when: august 27th, 2022 ...you&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong><span style="color: #8c864c;">the where:</span></strong> high dive, seattle, wa<br><strong><span style="color: #8c864c;">the when:</span></strong> august 27th, 2022</p>
-<p>...you missed it - but watch it below</p>
-<figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/Tvgx7PzUIZk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
             ]]>
         </content>
     </entry>

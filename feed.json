@@ -11,18 +11,31 @@
     },
     "items": [
         {
-            "id": "https://rightsok.github.io/fotb/media-2.html",
-            "url": "https://rightsok.github.io/fotb/media-2.html",
-            "title": "the videos",
-            "content_html": "<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/Tvgx7PzUIZk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/feE8BJPxc1c\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/l3aeCc5ib_k\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/ZwtFogVnjeY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/nYX29qskmZ0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>",
-            "image": "https://rightsok.github.io/fotb/media/posts/13/bear_recording.jpg",
+            "id": "https://rightsok.github.io/fotb/heroes-around-album-release.html",
+            "url": "https://rightsok.github.io/fotb/heroes-around-album-release.html",
+            "title": "heroes around album release",
+            "summary": "the where: high dive, seattle, wa the when: august 27th, 2022 ...you&hellip;",
+            "content_html": "<p><strong><span style=\"color: #8c864c;\">the where:</span></strong> high dive, seattle, wa<br><strong><span style=\"color: #8c864c;\">the when:</span></strong> august 27th, 2022</p>\n<p>...you missed it - but watch it below</p>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/Tvgx7PzUIZk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>",
             "author": {
                 "name": "the bear"
             },
             "tags": [
             ],
-            "date_published": "2022-09-10T15:39:35-07:00",
-            "date_modified": "2022-09-10T15:39:35-07:00"
+            "date_published": "2022-09-10T15:42:58-07:00",
+            "date_modified": "2022-09-10T15:43:16-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/the-videos.html",
+            "url": "https://rightsok.github.io/fotb/the-videos.html",
+            "title": "the videos",
+            "content_html": "<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/Tvgx7PzUIZk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/feE8BJPxc1c\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/l3aeCc5ib_k\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/ZwtFogVnjeY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/nYX29qskmZ0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-10T15:42:09-07:00",
+            "date_modified": "2022-09-10T15:42:09-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/listen-2.html",
@@ -125,20 +138,6 @@
             ],
             "date_published": "2022-09-09T13:55:04-07:00",
             "date_modified": "2022-09-09T14:50:59-07:00"
-        },
-        {
-            "id": "https://rightsok.github.io/fotb/heroes-around-album-launch.html",
-            "url": "https://rightsok.github.io/fotb/heroes-around-album-launch.html",
-            "title": "heroes around album release",
-            "summary": "the where: high dive, seattle, wa the when: august 27th, 2022 ...you&hellip;",
-            "content_html": "<p><strong><span style=\"color: #8c864c;\">the where:</span></strong> high dive, seattle, wa<br><strong><span style=\"color: #8c864c;\">the when:</span></strong> august 27th, 2022</p>\n<p>...you missed it - but watch it below</p>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/Tvgx7PzUIZk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>",
-            "author": {
-                "name": "the bear"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-09T13:53:23-07:00",
-            "date_modified": "2022-09-09T14:42:17-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/the-band.html",
