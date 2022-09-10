@@ -3,12 +3,32 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-10T15:43:16-07:00</updated>
+    <updated>2022-09-10T15:46:23-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
     <id>https://rightsok.github.io/fotb</id>
 
+    <entry>
+        <title>the music</title>
+        <author>
+            <name>the bear</name>
+        </author>
+        <link href="https://rightsok.github.io/fotb/the-music.html"/>
+        <id>https://rightsok.github.io/fotb/the-music.html</id>
+
+        <updated>2022-09-10T15:46:23-07:00</updated>
+            <summary>
+                <![CDATA[
+                    badum
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>badum</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>heroes around album release</title>
         <author>
@@ -48,28 +68,6 @@
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/l3aeCc5ib_k" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/ZwtFogVnjeY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/nYX29qskmZ0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>the music</title>
-        <author>
-            <name>the bear</name>
-        </author>
-        <link href="https://rightsok.github.io/fotb/listen-2.html"/>
-        <id>https://rightsok.github.io/fotb/listen-2.html</id>
-
-        <updated>2022-09-10T15:39:19-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rightsok.github.io/fotb/media/posts/12/bear_strummer.png" alt="" />
-                    probably music sounds logical
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rightsok.github.io/fotb/media/posts/12/bear_strummer.png" alt="" />
-                <p>probably music sounds logical</p>
             ]]>
         </content>
     </entry>

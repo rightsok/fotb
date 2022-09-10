@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://rightsok.github.io/fotb/the-music.html",
+            "url": "https://rightsok.github.io/fotb/the-music.html",
+            "title": "the music",
+            "summary": "badum",
+            "content_html": "<p>badum</p>",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-10T15:46:23-07:00",
+            "date_modified": "2022-09-10T15:46:23-07:00"
+        },
+        {
             "id": "https://rightsok.github.io/fotb/heroes-around-album-release.html",
             "url": "https://rightsok.github.io/fotb/heroes-around-album-release.html",
             "title": "heroes around album release",
@@ -36,21 +50,6 @@
             ],
             "date_published": "2022-09-10T15:42:09-07:00",
             "date_modified": "2022-09-10T15:42:09-07:00"
-        },
-        {
-            "id": "https://rightsok.github.io/fotb/listen-2.html",
-            "url": "https://rightsok.github.io/fotb/listen-2.html",
-            "title": "the music",
-            "summary": "probably music sounds logical",
-            "content_html": "<p>probably music sounds logical</p>",
-            "image": "https://rightsok.github.io/fotb/media/posts/12/bear_strummer.png",
-            "author": {
-                "name": "the bear"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-10T15:39:19-07:00",
-            "date_modified": "2022-09-10T15:39:19-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/news.html",
