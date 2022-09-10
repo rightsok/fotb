@@ -1,0 +1,159 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "",
+    "description": "",
+    "home_page_url": "https://rightsok.github.io/fotb",
+    "feed_url": "https://rightsok.github.io/fotb/feed.json",
+    "user_comment": "",
+    "icon": "https://rightsok.github.io/fotb/media/website/bear.fav-2.png",
+    "author": {
+        "name": "the bear"
+    },
+    "items": [
+        {
+            "id": "https://rightsok.github.io/fotb/news.html",
+            "url": "https://rightsok.github.io/fotb/news.html",
+            "title": "news",
+            "summary": "we got stuff going on and maybe you want to know about&hellip;",
+            "content_html": "<p>we got stuff going on and maybe you want to know about it</p>",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T14:31:14-07:00",
+            "date_modified": "2022-09-09T14:31:14-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/keep-us-fueled.html",
+            "url": "https://rightsok.github.io/fotb/keep-us-fueled.html",
+            "title": "fuel us",
+            "summary": "making music takes energy - chip in to help fuel the fortress&hellip;",
+            "content_html": "<p>making music takes energy - chip in to help fuel the fortress</p>\n<p>&gt; enter 'buy me a coffee' dono link &lt;</p>",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T14:30:14-07:00",
+            "date_modified": "2022-09-09T14:34:29-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/releases.html",
+            "url": "https://rightsok.github.io/fotb/releases.html",
+            "title": "releases",
+            "summary": "discography in a different jacket",
+            "content_html": "<p>discography in a different jacket</p>",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T14:29:13-07:00",
+            "date_modified": "2022-09-09T14:29:13-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/socials.html",
+            "url": "https://rightsok.github.io/fotb/socials.html",
+            "title": "socials",
+            "summary": "enter social links to the big fb, twits - whatever the kids&hellip;",
+            "content_html": "<p>enter social links to the big fb, twits - whatever the kids use</p>",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T14:25:24-07:00",
+            "date_modified": "2022-09-09T14:25:24-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/the-heroes-around-tour.html",
+            "url": "https://rightsok.github.io/fotb/the-heroes-around-tour.html",
+            "title": "the tour dates",
+            "summary": "Caption 2022 heroes around tour 05.12.22 | wayne manor | east side,&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/7/live_2022-2.jpeg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/7/responsive/live_2022-2-xs.jpeg 300w ,https://rightsok.github.io/fotb/media/posts/7/responsive/live_2022-2-sm.jpeg 480w ,https://rightsok.github.io/fotb/media/posts/7/responsive/live_2022-2-md.jpeg 768w ,https://rightsok.github.io/fotb/media/posts/7/responsive/live_2022-2-lg.jpeg 1024w\"  alt=\"\" width=\"2560\" height=\"1600\"><figcaption>Caption</figcaption></figure>\n<h1>2022 <span style=\"color: #8c864c;\">heroes around tour</span></h1>\n<ul>\n<li><strong><span style=\"color: #8c864c;\">05.12.22</span></strong> | wayne manor | east side, GO</li>\n<li><strong><span style=\"color: #8c864c;\">06.06.22</span></strong> | dandy town, houston, TX</li>\n<li><strong><span style=\"color: #8c864c;\">07.21.22</span></strong> | deadliest catch | anchorage, AK</li>\n<li><strong><span style=\"color: #8c864c;\">08.21.22</span></strong> | high dive | seattle, WA <strong><span style=\"color: #8c864c;\">album release show</span></strong></li>\n<li><strong><span style=\"color: #8c864c;\">09.03.22</span></strong> | eagle haven winery | sedro-woolley, WA</li>\n</ul>\n<p> </p>",
+            "image": "https://rightsok.github.io/fotb/media/posts/7/bear_touring.jpg",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T14:07:22-07:00",
+            "date_modified": "2022-09-09T15:02:53-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/the-way-to-contact.html",
+            "url": "https://rightsok.github.io/fotb/the-way-to-contact.html",
+            "title": "the (way to) contact",
+            "summary": "stick a form here for some nice comments, bingo",
+            "content_html": "<p>stick a form here for some nice comments, bingo</p>",
+            "image": "https://rightsok.github.io/fotb/media/posts/6/bear_waving.png",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T13:59:00-07:00",
+            "date_modified": "2022-09-09T14:49:19-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/the-merch.html",
+            "url": "https://rightsok.github.io/fotb/the-merch.html",
+            "title": "the merch",
+            "summary": "hoodies, tees, stickers, cds, vinyl, bears, we got it",
+            "content_html": "<p>hoodies, tees, stickers, cds, vinyl, <span style=\"text-decoration: line-through;\">bears,</span> we got it</p>",
+            "image": "https://rightsok.github.io/fotb/media/posts/5/bear_selling.jpeg",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T13:55:04-07:00",
+            "date_modified": "2022-09-09T14:50:59-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/heroes-around-album-launch.html",
+            "url": "https://rightsok.github.io/fotb/heroes-around-album-launch.html",
+            "title": "heroes around album release",
+            "summary": "the where: high dive, seattle, wa the when: august 27th, 2022 ...you&hellip;",
+            "content_html": "<p><strong><span style=\"color: #8c864c;\">the where:</span></strong> high dive, seattle, wa<br><strong><span style=\"color: #8c864c;\">the when:</span></strong> august 27th, 2022</p>\n<p>...you missed it - but watch it below</p>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/Tvgx7PzUIZk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T13:53:23-07:00",
+            "date_modified": "2022-09-09T14:42:17-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/the-band.html",
+            "url": "https://rightsok.github.io/fotb/the-band.html",
+            "title": "the band",
+            "summary": "the pieces that make up the whole",
+            "content_html": "<p>the pieces that make up the whole</p>",
+            "image": "https://rightsok.github.io/fotb/media/posts/3/bear_drummer.png",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T12:55:43-07:00",
+            "date_modified": "2022-09-09T14:58:37-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/listen.html",
+            "url": "https://rightsok.github.io/fotb/listen.html",
+            "title": "the music",
+            "summary": "probably music sounds logical",
+            "content_html": "<p>probably music sounds logical</p>",
+            "image": "https://rightsok.github.io/fotb/media/posts/2/bear_strummer.png",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T12:55:23-07:00",
+            "date_modified": "2022-09-09T14:58:30-07:00"
+        }
+    ]
+}
