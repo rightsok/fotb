@@ -11,6 +11,35 @@
     },
     "items": [
         {
+            "id": "https://rightsok.github.io/fotb/media-2.html",
+            "url": "https://rightsok.github.io/fotb/media-2.html",
+            "title": "the videos",
+            "content_html": "<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/Tvgx7PzUIZk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/feE8BJPxc1c\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/l3aeCc5ib_k\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/ZwtFogVnjeY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/nYX29qskmZ0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>",
+            "image": "https://rightsok.github.io/fotb/media/posts/13/bear_recording.jpg",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-10T15:39:35-07:00",
+            "date_modified": "2022-09-10T15:39:35-07:00"
+        },
+        {
+            "id": "https://rightsok.github.io/fotb/listen-2.html",
+            "url": "https://rightsok.github.io/fotb/listen-2.html",
+            "title": "the music",
+            "summary": "probably music sounds logical",
+            "content_html": "<p>probably music sounds logical</p>",
+            "image": "https://rightsok.github.io/fotb/media/posts/12/bear_strummer.png",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-10T15:39:19-07:00",
+            "date_modified": "2022-09-10T15:39:19-07:00"
+        },
+        {
             "id": "https://rightsok.github.io/fotb/news.html",
             "url": "https://rightsok.github.io/fotb/news.html",
             "title": "news",
@@ -23,20 +52,6 @@
             ],
             "date_published": "2022-09-09T14:31:14-07:00",
             "date_modified": "2022-09-09T14:31:14-07:00"
-        },
-        {
-            "id": "https://rightsok.github.io/fotb/keep-us-fueled.html",
-            "url": "https://rightsok.github.io/fotb/keep-us-fueled.html",
-            "title": "fuel us",
-            "summary": "making music takes energy - chip in to help fuel the fortress&hellip;",
-            "content_html": "<p>making music takes energy - chip in to help fuel the fortress</p>\n<p>&gt; enter 'buy me a coffee' dono link &lt;</p>",
-            "author": {
-                "name": "the bear"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-09T14:30:14-07:00",
-            "date_modified": "2022-09-09T14:34:29-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/releases.html",
@@ -139,21 +154,6 @@
             ],
             "date_published": "2022-09-09T12:55:43-07:00",
             "date_modified": "2022-09-09T14:58:37-07:00"
-        },
-        {
-            "id": "https://rightsok.github.io/fotb/listen.html",
-            "url": "https://rightsok.github.io/fotb/listen.html",
-            "title": "the music",
-            "summary": "probably music sounds logical",
-            "content_html": "<p>probably music sounds logical</p>",
-            "image": "https://rightsok.github.io/fotb/media/posts/2/bear_strummer.png",
-            "author": {
-                "name": "the bear"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-09T12:55:23-07:00",
-            "date_modified": "2022-09-09T14:58:30-07:00"
         }
     ]
 }
