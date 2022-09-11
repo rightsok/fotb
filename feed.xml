@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-10T19:25:16-07:00</updated>
+    <updated>2022-09-11T13:17:49-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -86,10 +86,11 @@
         <link href="https://rightsok.github.io/fotb/the-music.html"/>
         <id>https://rightsok.github.io/fotb/the-music.html</id>
 
-        <updated>2022-09-10T19:25:16-07:00</updated>
+        <updated>2022-09-11T13:17:49-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://rightsok.github.io/fotb/media/posts/16/bears_party.png" alt="bear party" />
                 <center>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="700" height="400" style="border-radius: 12px;" src="https://open.spotify.com/embed/artist/68nQzX54fhdo5YPPiseAJA?utm_source=generator&amp;theme=0" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" gt="" figure=""></iframe></div></figure>
 </center>
@@ -133,10 +134,11 @@
         <link href="https://rightsok.github.io/fotb/the-videos.html"/>
         <id>https://rightsok.github.io/fotb/the-videos.html</id>
 
-        <updated>2022-09-10T16:15:35-07:00</updated>
+        <updated>2022-09-11T13:12:35-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://rightsok.github.io/fotb/media/posts/14/bear_action.png" alt="bear posing for camera" />
                 <center>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/Tvgx7PzUIZk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/feE8BJPxc1c" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
@@ -222,14 +224,16 @@
         <link href="https://rightsok.github.io/fotb/the-merch.html"/>
         <id>https://rightsok.github.io/fotb/the-merch.html</id>
 
-        <updated>2022-09-10T18:53:38-07:00</updated>
+        <updated>2022-09-11T13:12:21-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://rightsok.github.io/fotb/media/posts/5/bear_shopping.png" alt="bear shopping" />
                     coming soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://rightsok.github.io/fotb/media/posts/5/bear_shopping.png" alt="bear shopping" />
                 <h1>coming soon</h1>
             ]]>
         </content>
@@ -242,14 +246,16 @@
         <link href="https://rightsok.github.io/fotb/the-band.html"/>
         <id>https://rightsok.github.io/fotb/the-band.html</id>
 
-        <updated>2022-09-10T18:53:49-07:00</updated>
+        <updated>2022-09-11T12:21:02-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://rightsok.github.io/fotb/media/posts/3/bear_family-banner-2.png" alt="" />
                     coming soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://rightsok.github.io/fotb/media/posts/3/bear_family-banner-2.png" alt="" />
                 <h1>coming soon</h1>
             ]]>
         </content>

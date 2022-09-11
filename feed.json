@@ -44,13 +44,14 @@
             "url": "https://rightsok.github.io/fotb/the-music.html",
             "title": "the music",
             "content_html": "<center>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"700\" height=\"400\" style=\"border-radius: 12px;\" src=\"https://open.spotify.com/embed/artist/68nQzX54fhdo5YPPiseAJA?utm_source=generator&amp;theme=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" gt=\"\" figure=\"\"></iframe></div></figure>\n</center>",
+            "image": "https://rightsok.github.io/fotb/media/posts/16/bears_party.png",
             "author": {
                 "name": "the bear"
             },
             "tags": [
             ],
             "date_published": "2022-09-10T15:46:23-07:00",
-            "date_modified": "2022-09-10T19:25:16-07:00"
+            "date_modified": "2022-09-11T13:17:49-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/heroes-around-album-release.html",
@@ -72,13 +73,14 @@
             "url": "https://rightsok.github.io/fotb/the-videos.html",
             "title": "the videos",
             "content_html": "<center>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/Tvgx7PzUIZk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/feE8BJPxc1c\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/l3aeCc5ib_k\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/ZwtFogVnjeY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/nYX29qskmZ0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n</center>",
+            "image": "https://rightsok.github.io/fotb/media/posts/14/bear_action.png",
             "author": {
                 "name": "the bear"
             },
             "tags": [
             ],
             "date_published": "2022-09-10T15:42:09-07:00",
-            "date_modified": "2022-09-10T16:15:35-07:00"
+            "date_modified": "2022-09-11T13:12:35-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/news.html",
@@ -116,13 +118,14 @@
             "title": "the merch",
             "summary": "coming soon",
             "content_html": "<h1>coming soon</h1>",
+            "image": "https://rightsok.github.io/fotb/media/posts/5/bear_shopping.png",
             "author": {
                 "name": "the bear"
             },
             "tags": [
             ],
             "date_published": "2022-09-09T13:55:04-07:00",
-            "date_modified": "2022-09-10T18:53:38-07:00"
+            "date_modified": "2022-09-11T13:12:21-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/the-band.html",
@@ -130,13 +133,14 @@
             "title": "the band",
             "summary": "coming soon",
             "content_html": "<h1>coming soon</h1>",
+            "image": "https://rightsok.github.io/fotb/media/posts/3/bear_family-banner-2.png",
             "author": {
                 "name": "the bear"
             },
             "tags": [
             ],
             "date_published": "2022-09-09T12:55:43-07:00",
-            "date_modified": "2022-09-10T18:53:49-07:00"
+            "date_modified": "2022-09-11T12:21:02-07:00"
         }
     ]
 }
