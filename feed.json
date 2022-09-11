@@ -115,31 +115,29 @@
             "id": "https://rightsok.github.io/fotb/the-merch.html",
             "url": "https://rightsok.github.io/fotb/the-merch.html",
             "title": "the merch",
-            "summary": "hoodies, tees, stickers, cds, vinyl, bears, we got it",
-            "content_html": "<p>hoodies, tees, stickers, cds, vinyl, <span style=\"text-decoration: line-through;\">bears,</span> we got it</p>",
-            "image": "https://rightsok.github.io/fotb/media/posts/5/bear_selling.jpeg",
+            "summary": "coming soon",
+            "content_html": "<h1>coming soon</h1>",
             "author": {
                 "name": "the bear"
             },
             "tags": [
             ],
             "date_published": "2022-09-09T13:55:04-07:00",
-            "date_modified": "2022-09-09T14:50:59-07:00"
+            "date_modified": "2022-09-10T18:53:38-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/the-band.html",
             "url": "https://rightsok.github.io/fotb/the-band.html",
             "title": "the band",
-            "summary": "the pieces that make up the whole",
-            "content_html": "<p>the pieces that make up the whole</p>",
-            "image": "https://rightsok.github.io/fotb/media/posts/3/bear_drummer.png",
+            "summary": "coming soon",
+            "content_html": "<h1>coming soon</h1>",
             "author": {
                 "name": "the bear"
             },
             "tags": [
             ],
             "date_published": "2022-09-09T12:55:43-07:00",
-            "date_modified": "2022-09-09T14:58:37-07:00"
+            "date_modified": "2022-09-10T18:53:49-07:00"
         }
     ]
 }

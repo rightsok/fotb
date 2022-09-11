@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-10T18:48:25-07:00</updated>
+    <updated>2022-09-10T18:53:49-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -194,17 +194,15 @@
         <link href="https://rightsok.github.io/fotb/the-merch.html"/>
         <id>https://rightsok.github.io/fotb/the-merch.html</id>
 
-        <updated>2022-09-09T14:50:59-07:00</updated>
+        <updated>2022-09-10T18:53:38-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rightsok.github.io/fotb/media/posts/5/bear_selling.jpeg" alt="" />
-                    hoodies, tees, stickers, cds, vinyl, bears, we got it
+                    coming soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rightsok.github.io/fotb/media/posts/5/bear_selling.jpeg" alt="" />
-                <p>hoodies, tees, stickers, cds, vinyl, <span style="text-decoration: line-through;">bears,</span> we got it</p>
+                <h1>coming soon</h1>
             ]]>
         </content>
     </entry>
@@ -216,17 +214,15 @@
         <link href="https://rightsok.github.io/fotb/the-band.html"/>
         <id>https://rightsok.github.io/fotb/the-band.html</id>
 
-        <updated>2022-09-09T14:58:37-07:00</updated>
+        <updated>2022-09-10T18:53:49-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rightsok.github.io/fotb/media/posts/3/bear_drummer.png" alt="" />
-                    the pieces that make up the whole
+                    coming soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rightsok.github.io/fotb/media/posts/3/bear_drummer.png" alt="" />
-                <p>the pieces that make up the whole</p>
+                <h1>coming soon</h1>
             ]]>
         </content>
     </entry>
