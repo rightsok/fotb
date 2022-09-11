@@ -3,12 +3,49 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-10T16:24:38-07:00</updated>
+    <updated>2022-09-10T17:28:16-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
     <id>https://rightsok.github.io/fotb</id>
 
+    <entry>
+        <title>the tour</title>
+        <author>
+            <name>the bear</name>
+        </author>
+        <link href="https://rightsok.github.io/fotb/the-tour.html"/>
+        <id>https://rightsok.github.io/fotb/the-tour.html</id>
+
+        <updated>2022-09-10T17:28:16-07:00</updated>
+            <summary>
+                <![CDATA[
+                    2022 heroes around tour 08.21.22 high dive seattle, WA tickets 09.03.22 eagle&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>2022 <span style="color: #8c864c;">heroes around<span style="color: #000000;"> tour</span></span></h1>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">08.21.22</span></strong></td>
+<td style="width: 30.8085%;"><a href="https://highdiveseattle.com/" target="_blank" rel="noopener noreferrer">high dive</a></td>
+<td style="width: 32.6723%;">seattle, WA</td>
+<td style="width: 18.6876%;"><span style="color: #8c864c;"><a href="https://www.tixr.com/groups/highdive/events/fortress-of-the-bear-album-release-show-46149" target="_blank" rel="noopener noreferrer">tickets</a></span></td>
+</tr>
+<tr>
+<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">09.03.22</span></strong></td>
+<td style="width: 30.8085%;"><a href="http://www.eaglehavenwinery.com/" target="_blank" rel="noopener noreferrer">eagle haven winery</a></td>
+<td style="width: 32.6723%;">sedro-woolley, WA</td>
+<td style="width: 18.6876%;"> </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>the music</title>
         <author>
@@ -130,45 +167,6 @@
         <content type="html">
             <![CDATA[
                 <p>enter social links to the big fb, twits - whatever the kids use</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>the tour dates</title>
-        <author>
-            <name>the bear</name>
-        </author>
-        <link href="https://rightsok.github.io/fotb/the-heroes-around-tour.html"/>
-        <id>https://rightsok.github.io/fotb/the-heroes-around-tour.html</id>
-
-        <updated>2022-09-10T16:24:38-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rightsok.github.io/fotb/media/posts/7/live_2022.jpeg" alt="fortress of the bear playing live" />
-                    2022 heroes around tour 08.21.22 high dive seattle, WA tickets 09.03.22 eagle&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rightsok.github.io/fotb/media/posts/7/live_2022.jpeg" alt="fortress of the bear playing live" />
-                <h1>2022 <span style="color: #8c864c;">heroes around<span style="color: #000000;"> tour</span></span></h1>
-<table style="border-collapse: collapse; width: 100%;" border="0">
-<tbody>
-<tr>
-<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">08.21.22</span></strong></td>
-<td style="width: 30.8085%;"><a href="https://highdiveseattle.com/" target="_blank" rel="noopener noreferrer">high dive</a></td>
-<td style="width: 32.6723%;">seattle, WA</td>
-<td style="width: 18.6876%;"><span style="color: #8c864c;"><a href="https://www.tixr.com/groups/highdive/events/fortress-of-the-bear-album-release-show-46149" target="_blank" rel="noopener noreferrer">tickets</a></span></td>
-</tr>
-<tr>
-<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">09.03.22</span></strong></td>
-<td style="width: 30.8085%;"><a href="http://www.eaglehavenwinery.com/" target="_blank" rel="noopener noreferrer">eagle haven winery</a></td>
-<td style="width: 32.6723%;">sedro-woolley, WA</td>
-<td style="width: 18.6876%;"> </td>
-</tr>
-</tbody>
-</table>
-<p> </p>
             ]]>
         </content>
     </entry>
