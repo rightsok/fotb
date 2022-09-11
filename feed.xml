@@ -3,12 +3,36 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-10T17:28:16-07:00</updated>
+    <updated>2022-09-10T17:48:55-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
     <id>https://rightsok.github.io/fotb</id>
 
+    <entry>
+        <title>contact</title>
+        <author>
+            <name>the bear</name>
+        </author>
+        <link href="https://rightsok.github.io/fotb/contact.html"/>
+        <id>https://rightsok.github.io/fotb/contact.html</id>
+
+        <updated>2022-09-10T17:48:55-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Email us here for questions about merchandise Email us here for questions&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="mailto:merch@fortressofthebear.com">Email us here</a> for questions about <strong><span style="color: #8c864c;">merchandise</span></strong><br><br></li>
+<li><a href="mailto:booking@fortressofthebear.com">Email us here</a> for questions about <strong><span style="color: #8c864c;">tours</span></strong> and <strong><span style="color: #8c864c;">booking</span></strong><br><br></li>
+<li><a href="mailto:info@fortressofthebear.com">Email us here</a> for <strong><span style="color: #8c864c;">everything else</span></strong></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>the tour</title>
         <author>
@@ -147,52 +171,6 @@
         <content type="html">
             <![CDATA[
                 <p>discography in a different jacket</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>socials</title>
-        <author>
-            <name>the bear</name>
-        </author>
-        <link href="https://rightsok.github.io/fotb/socials.html"/>
-        <id>https://rightsok.github.io/fotb/socials.html</id>
-
-        <updated>2022-09-09T14:25:24-07:00</updated>
-            <summary>
-                <![CDATA[
-                    enter social links to the big fb, twits - whatever the kids&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>enter social links to the big fb, twits - whatever the kids use</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>the (way to) contact</title>
-        <author>
-            <name>the bear</name>
-        </author>
-        <link href="https://rightsok.github.io/fotb/the-way-to-contact.html"/>
-        <id>https://rightsok.github.io/fotb/the-way-to-contact.html</id>
-
-        <updated>2022-09-10T16:10:31-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rightsok.github.io/fotb/media/posts/6/bear_waving.png" alt="" />
-                    Email us here for questions about merchandise Email us here for questions&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rightsok.github.io/fotb/media/posts/6/bear_waving.png" alt="" />
-                <ul>
-<li><a href="mailto:merch@fortressofthebear.com">Email us here</a> for questions about <strong><span style="color: #8c864c;">merchandise</span></strong><br><br></li>
-<li><a href="mailto:booking@fortressofthebear.com">Email us here</a> for questions about <strong><span style="color: #8c864c;">tours</span></strong> and <strong><span style="color: #8c864c;">booking</span></strong><br><br></li>
-<li><a href="mailto:info@fortressofthebear.com">Email us here</a> for <strong><span style="color: #8c864c;">everything else</span></strong></li>
-</ul>
             ]]>
         </content>
     </entry>
