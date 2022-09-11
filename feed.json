@@ -84,8 +84,8 @@
             "id": "https://rightsok.github.io/fotb/news.html",
             "url": "https://rightsok.github.io/fotb/news.html",
             "title": "news",
-            "summary": "we got stuff going on and maybe you want to know about&hellip;",
-            "content_html": "<p>we got stuff going on and maybe you want to know about it</p>",
+            "summary": "coming soon",
+            "content_html": "<h1>coming soon</h1>",
             "image": "https://rightsok.github.io/fotb/media/posts/11/bear_news.png",
             "author": {
                 "name": "the bear"
@@ -93,7 +93,7 @@
             "tags": [
             ],
             "date_published": "2022-09-09T14:31:14-07:00",
-            "date_modified": "2022-09-10T18:23:43-07:00"
+            "date_modified": "2022-09-10T19:06:06-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/releases.html",

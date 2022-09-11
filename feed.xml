@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-10T19:05:22-07:00</updated>
+    <updated>2022-09-10T19:06:06-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -147,17 +147,17 @@
         <link href="https://rightsok.github.io/fotb/news.html"/>
         <id>https://rightsok.github.io/fotb/news.html</id>
 
-        <updated>2022-09-10T18:23:43-07:00</updated>
+        <updated>2022-09-10T19:06:06-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rightsok.github.io/fotb/media/posts/11/bear_news.png" alt="" />
-                    we got stuff going on and maybe you want to know about&hellip;
+                    coming soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://rightsok.github.io/fotb/media/posts/11/bear_news.png" alt="" />
-                <p>we got stuff going on and maybe you want to know about it</p>
+                <h1>coming soon</h1>
             ]]>
         </content>
     </entry>
