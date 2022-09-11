@@ -43,14 +43,14 @@
             "id": "https://rightsok.github.io/fotb/the-music.html",
             "url": "https://rightsok.github.io/fotb/the-music.html",
             "title": "the music",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"700\" height=\"400\" style=\"border-radius: 12px;\" src=\"https://open.spotify.com/embed/artist/68nQzX54fhdo5YPPiseAJA?utm_source=generator&amp;theme=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></div>",
+            "content_html": "<center>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"700\" height=\"400\" style=\"border-radius: 12px;\" src=\"https://open.spotify.com/embed/artist/68nQzX54fhdo5YPPiseAJA?utm_source=generator&amp;theme=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" gt=\"\" figure=\"\"></iframe></div></figure>\n</center>",
             "author": {
                 "name": "the bear"
             },
             "tags": [
             ],
             "date_published": "2022-09-10T15:46:23-07:00",
-            "date_modified": "2022-09-10T18:59:03-07:00"
+            "date_modified": "2022-09-10T19:25:16-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/heroes-around-album-release.html",
