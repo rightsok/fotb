@@ -102,13 +102,14 @@
             "title": "releases",
             "summary": "discography in a different jacket",
             "content_html": "<p>discography in a different jacket</p>",
+            "image": "https://rightsok.github.io/fotb/media/posts/9/bear_strummer.png",
             "author": {
                 "name": "the bear"
             },
             "tags": [
             ],
             "date_published": "2022-09-09T14:29:13-07:00",
-            "date_modified": "2022-09-09T14:29:13-07:00"
+            "date_modified": "2022-09-10T18:48:25-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/the-merch.html",
