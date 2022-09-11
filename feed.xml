@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-10T17:48:55-07:00</updated>
+    <updated>2022-09-10T18:01:36-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -98,16 +98,22 @@
         <link href="https://rightsok.github.io/fotb/heroes-around-album-release.html"/>
         <id>https://rightsok.github.io/fotb/heroes-around-album-release.html</id>
 
-        <updated>2022-09-10T15:43:16-07:00</updated>
+        <updated>2022-09-10T18:01:36-07:00</updated>
             <summary>
                 <![CDATA[
-                    the where: high dive, seattle, wa the when: august 27th, 2022 ...you&hellip;
+                        <img src="https://rightsok.github.io/fotb/media/posts/15/fotb_heroes_album.png" alt="heroes around album cover" />
+                    available digital on Apple Music or Spotify physical via the merch page&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong><span style="color: #8c864c;">the where:</span></strong> high dive, seattle, wa<br><strong><span style="color: #8c864c;">the when:</span></strong> august 27th, 2022</p>
-<p>...you missed it - but watch it below</p>
+                    <img src="https://rightsok.github.io/fotb/media/posts/15/fotb_heroes_album.png" alt="heroes around album cover" />
+                <h1 class="align-left">available</h1>
+<ul>
+<li>digital on <a href="https://music.apple.com/us/artist/fortress-of-the-bear/1281009078" target="_blank" rel="noopener noreferrer"><strong>Apple</strong> <strong>Music</strong></a> or <strong><a href="https://open.spotify.com/artist/68nQzX54fhdo5YPPiseAJA" target="_blank" rel="noopener noreferrer">Spotify</a></strong></li>
+<li>physical via the <strong><a href="https://rightsok.github.io/fotb/the-merch.html">merch page</a></strong></li>
+</ul>
+<h1 class="align-left">watch the launch show</h1>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/Tvgx7PzUIZk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
             ]]>
         </content>
