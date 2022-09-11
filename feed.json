@@ -43,22 +43,21 @@
             "id": "https://rightsok.github.io/fotb/the-music.html",
             "url": "https://rightsok.github.io/fotb/the-music.html",
             "title": "the music",
-            "summary": "badum",
-            "content_html": "<p>badum</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"700\" height=\"400\" style=\"border-radius: 12px;\" src=\"https://open.spotify.com/embed/artist/68nQzX54fhdo5YPPiseAJA?utm_source=generator&amp;theme=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></div>",
             "author": {
                 "name": "the bear"
             },
             "tags": [
             ],
             "date_published": "2022-09-10T15:46:23-07:00",
-            "date_modified": "2022-09-10T15:46:23-07:00"
+            "date_modified": "2022-09-10T18:59:03-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/heroes-around-album-release.html",
             "url": "https://rightsok.github.io/fotb/heroes-around-album-release.html",
             "title": "heroes around album release",
             "summary": "available digital on Apple Music or Spotify physical via the merch page&hellip;",
-            "content_html": "<h1 class=\"align-left\">available</h1>\n<ul>\n<li>digital on <span style=\"color: #ce3832;\"><a href=\"https://music.apple.com/us/artist/fortress-of-the-bear/1281009078\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">Apple Music</a></span> or <span style=\"color: #ce3832;\"><a href=\"https://open.spotify.com/artist/68nQzX54fhdo5YPPiseAJA\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">Spotify</a></span></li>\n<li>physical via the <span style=\"color: #ce3832;\"><a href=\"https://rightsok.github.io/fotb/the-merch.html\" style=\"color: #ce3832;\">merch page</a></span></li>\n</ul>\n<h1 class=\"align-left\">watch the launch show</h1>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/Tvgx7PzUIZk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>",
+            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/15/fotb_heroes_album-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/15/responsive/fotb_heroes_album-2-xs.png 300w ,https://rightsok.github.io/fotb/media/posts/15/responsive/fotb_heroes_album-2-sm.png 480w ,https://rightsok.github.io/fotb/media/posts/15/responsive/fotb_heroes_album-2-md.png 768w ,https://rightsok.github.io/fotb/media/posts/15/responsive/fotb_heroes_album-2-lg.png 1024w\"  alt=\"heroes around album cover\" width=\"500\" height=\"501\"></figure>\n<h1 class=\"align-left\">available</h1>\n<ul>\n<li>digital on <span style=\"color: #ce3832;\"><a href=\"https://music.apple.com/us/artist/fortress-of-the-bear/1281009078\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">Apple Music</a></span> or <span style=\"color: #ce3832;\"><a href=\"https://open.spotify.com/artist/68nQzX54fhdo5YPPiseAJA\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">Spotify</a></span></li>\n<li>physical via the <span style=\"color: #ce3832;\"><a href=\"https://rightsok.github.io/fotb/the-merch.html\" style=\"color: #ce3832;\">merch page</a></span></li>\n</ul>\n<h1 class=\"align-left\">watch the launch show</h1>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/Tvgx7PzUIZk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>",
             "image": "https://rightsok.github.io/fotb/media/posts/15/fotb_heroes_album.png",
             "author": {
                 "name": "the bear"
@@ -66,7 +65,7 @@
             "tags": [
             ],
             "date_published": "2022-09-10T15:42:58-07:00",
-            "date_modified": "2022-09-10T18:06:36-07:00"
+            "date_modified": "2022-09-10T19:05:22-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/the-videos.html",
@@ -100,8 +99,8 @@
             "id": "https://rightsok.github.io/fotb/releases.html",
             "url": "https://rightsok.github.io/fotb/releases.html",
             "title": "releases",
-            "summary": "coming soon",
-            "content_html": "<h1>coming soon</h1>",
+            "summary": "Heroes Around 2022 Concrete Drive 2020 Tom's Living Room 2019 Fortress of&hellip;",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Heroes Around</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2022</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/15ONrTJC3ADti4rEo0i0Gq?si=4DQd6u4JRwSpHzz4_cx6qw\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-xs.png 300w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-sm.png 480w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-md.png 768w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Concrete Drive</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2020</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/5haMGVc8AueGWFn4jFynQq?si=lEBB2AZ9RAab1koeYAHFgg\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-xs.png 300w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-sm.png 480w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-md.png 768w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Tom's Living Room</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2019</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/7LbOXn27ngjOtFrj8znFcy?si=O0Gs4FhASbS0cC1VT585-A\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-xs.png 300w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-sm.png 480w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-md.png 768w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Fortress of The Bear</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2017</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/1TTj9XZqi0mxjB2dl82ixv?si=LIV_rXRITJe2KgLe13j-pw\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-xs.png 300w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-sm.png 480w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-md.png 768w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n</tbody>\n</table>",
             "image": "https://rightsok.github.io/fotb/media/posts/9/bear_strummer.png",
             "author": {
                 "name": "the bear"
@@ -109,7 +108,7 @@
             "tags": [
             ],
             "date_published": "2022-09-09T14:29:13-07:00",
-            "date_modified": "2022-09-10T18:56:01-07:00"
+            "date_modified": "2022-09-10T19:03:50-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/the-merch.html",
