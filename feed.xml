@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-10T18:53:49-07:00</updated>
+    <updated>2022-09-10T18:56:01-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -172,17 +172,17 @@
         <link href="https://rightsok.github.io/fotb/releases.html"/>
         <id>https://rightsok.github.io/fotb/releases.html</id>
 
-        <updated>2022-09-10T18:48:25-07:00</updated>
+        <updated>2022-09-10T18:56:01-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rightsok.github.io/fotb/media/posts/9/bear_strummer.png" alt="bear on acoustic guitare" />
-                    discography in a different jacket
+                    coming soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://rightsok.github.io/fotb/media/posts/9/bear_strummer.png" alt="bear on acoustic guitare" />
-                <p>discography in a different jacket</p>
+                <h1>coming soon</h1>
             ]]>
         </content>
     </entry>
