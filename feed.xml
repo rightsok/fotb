@@ -3,57 +3,31 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-11T14:19:25-07:00</updated>
+    <updated>2022-09-12T12:57:00-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
     <id>https://rightsok.github.io/fotb</id>
 
     <entry>
-        <title>contact</title>
+        <title>the shows</title>
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://rightsok.github.io/fotb/contact.html"/>
-        <id>https://rightsok.github.io/fotb/contact.html</id>
+        <link href="https://rightsok.github.io/fotb/the-shows.html"/>
+        <id>https://rightsok.github.io/fotb/the-shows.html</id>
 
-        <updated>2022-09-10T19:19:35-07:00</updated>
+        <updated>2022-09-12T12:57:00-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rightsok.github.io/fotb/media/posts/18/bear_call-2.png" alt="saved by the angry bear" />
-                    Email us here for questions about merchandise Email us here for questions&hellip;
+                        <img src="https://rightsok.github.io/fotb/media/posts/19/bear_tour.png" alt="bear shows" />
+                    2022 heroes around shows 08.21.22 high dive seattle, WA tickets 09.03.22 eagle&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rightsok.github.io/fotb/media/posts/18/bear_call-2.png" alt="saved by the angry bear" />
-                <ul>
-<li><span style="color: #ce3832;"><a href="mailto:merch@fortressofthebear.com" style="color: #ce3832;">Email us here</a></span> for questions about <strong><span style="color: #8c864c;">merchandise</span></strong><br><br></li>
-<li><span style="color: #ce3832;"><a href="mailto:booking@fortressofthebear.com" style="color: #ce3832;">Email us here</a></span> for questions about <strong><span style="color: #8c864c;">tours</span></strong> and <strong><span style="color: #8c864c;">booking</span></strong><br><br></li>
-<li><span style="color: #ce3832;"><a href="mailto:info@fortressofthebear.com" style="color: #ce3832;">Email us here</a></span> for <strong><span style="color: #8c864c;">everything else</span></strong></li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>the tour</title>
-        <author>
-            <name>the bear</name>
-        </author>
-        <link href="https://rightsok.github.io/fotb/the-tour.html"/>
-        <id>https://rightsok.github.io/fotb/the-tour.html</id>
-
-        <updated>2022-09-11T14:19:25-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rightsok.github.io/fotb/media/posts/17/bear_ontour-4.png" alt="bears on tour" />
-                    2022 heroes around tour 08.21.22 high dive seattle, WA tickets 09.03.22 eagle&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rightsok.github.io/fotb/media/posts/17/bear_ontour-4.png" alt="bears on tour" />
-                <h1><span style="color: #8c864c;"><span style="color: #000000;">2022</span><br>heroes around<br><span style="color: #000000;">tour</span></span></h1>
+                    <img src="https://rightsok.github.io/fotb/media/posts/19/bear_tour.png" alt="bear shows" />
+                <h1><span style="color: #8c864c;"><span style="color: #000000;">2022</span><br>heroes around<br><span style="color: #000000;">shows</span></span></h1>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
@@ -77,6 +51,33 @@
 </tbody>
 </table>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>contact</title>
+        <author>
+            <name>the bear</name>
+        </author>
+        <link href="https://rightsok.github.io/fotb/contact.html"/>
+        <id>https://rightsok.github.io/fotb/contact.html</id>
+
+        <updated>2022-09-11T16:29:41-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rightsok.github.io/fotb/media/posts/18/bear_call-2.png" alt="saved by the angry bear" />
+                    Email us here for questions about merchandise Email us here for questions&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rightsok.github.io/fotb/media/posts/18/bear_call-2.png" alt="saved by the angry bear" />
+                <ul>
+<li><span style="color: #ce3832;"><a href="mailto:merch@fortressofthebear.com" style="color: #ce3832;">Email us here</a></span> for questions about <strong><span style="color: #8c864c;">merchandise</span></strong><br><br></li>
+<li><span style="color: #ce3832;"><a href="mailto:booking@fortressofthebear.com" style="color: #ce3832;">Email us here</a></span> for questions about <strong><span style="color: #8c864c;">tours</span></strong> and <strong><span style="color: #8c864c;">booking</span></strong><br><br></li>
+<li><span style="color: #ce3832;"><a href="mailto:info@fortressofthebear.com" style="color: #ce3832;">Email us here</a></span> for <strong><span style="color: #8c864c;">everything else</span></strong></li>
+</ul>
+<script async="" data-uid="45b99cd4e9" src="https://winning-trader-5682.ck.page/45b99cd4e9/index.js"></script>
             ]]>
         </content>
     </entry>

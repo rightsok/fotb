@@ -11,11 +11,26 @@
     },
     "items": [
         {
+            "id": "https://rightsok.github.io/fotb/the-shows.html",
+            "url": "https://rightsok.github.io/fotb/the-shows.html",
+            "title": "the shows",
+            "summary": "2022 heroes around shows 08.21.22 high dive seattle, WA tickets 09.03.22 eagle&hellip;",
+            "content_html": "<h1><span style=\"color: #8c864c;\"><span style=\"color: #000000;\">2022</span><br>heroes around<br><span style=\"color: #000000;\">shows</span></span></h1>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 17.8317%;\"><strong><span style=\"color: #8c864c;\">08.21.22</span></strong></td>\n<td style=\"width: 30.8085%;\"><span style=\"color: #ce3832;\"><a href=\"https://highdiveseattle.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">high dive</a></span></td>\n<td style=\"width: 32.6723%;\">seattle, WA</td>\n<td style=\"width: 18.6876%;\"><span style=\"color: #ce3832;\"><a href=\"https://www.tixr.com/groups/highdive/events/fortress-of-the-bear-album-release-show-46149\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">tickets</a></span></td>\n</tr>\n<tr>\n<td style=\"width: 17.8317%;\"><strong><span style=\"color: #8c864c;\">09.03.22</span></strong></td>\n<td style=\"width: 30.8085%;\"><span style=\"color: #ce3832;\"><a href=\"http://www.eaglehavenwinery.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">eagle haven winery</a></span></td>\n<td style=\"width: 32.6723%;\">sedro-woolley, WA</td>\n<td style=\"width: 18.6876%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 17.8317%;\"><strong><span style=\"color: #8c864c;\">10.08.22</span></strong></td>\n<td style=\"width: 30.8085%;\"><span style=\"color: #ce3832;\"><a href=\"https://visitmoscowid.com/listing-single/johns-alley-tavern/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">john's ally tavern</a></span></td>\n<td style=\"width: 32.6723%;\">moscow, ID</td>\n<td style=\"width: 18.6876%;\"> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "image": "https://rightsok.github.io/fotb/media/posts/19/bear_tour.png",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-12T12:54:44-07:00",
+            "date_modified": "2022-09-12T12:57:00-07:00"
+        },
+        {
             "id": "https://rightsok.github.io/fotb/contact.html",
             "url": "https://rightsok.github.io/fotb/contact.html",
             "title": "contact",
             "summary": "Email us here for questions about merchandise Email us here for questions&hellip;",
-            "content_html": "<ul>\n<li><span style=\"color: #ce3832;\"><a href=\"mailto:merch@fortressofthebear.com\" style=\"color: #ce3832;\">Email us here</a></span> for questions about <strong><span style=\"color: #8c864c;\">merchandise</span></strong><br><br></li>\n<li><span style=\"color: #ce3832;\"><a href=\"mailto:booking@fortressofthebear.com\" style=\"color: #ce3832;\">Email us here</a></span> for questions about <strong><span style=\"color: #8c864c;\">tours</span></strong> and <strong><span style=\"color: #8c864c;\">booking</span></strong><br><br></li>\n<li><span style=\"color: #ce3832;\"><a href=\"mailto:info@fortressofthebear.com\" style=\"color: #ce3832;\">Email us here</a></span> for <strong><span style=\"color: #8c864c;\">everything else</span></strong></li>\n</ul>",
+            "content_html": "<ul>\n<li><span style=\"color: #ce3832;\"><a href=\"mailto:merch@fortressofthebear.com\" style=\"color: #ce3832;\">Email us here</a></span> for questions about <strong><span style=\"color: #8c864c;\">merchandise</span></strong><br><br></li>\n<li><span style=\"color: #ce3832;\"><a href=\"mailto:booking@fortressofthebear.com\" style=\"color: #ce3832;\">Email us here</a></span> for questions about <strong><span style=\"color: #8c864c;\">tours</span></strong> and <strong><span style=\"color: #8c864c;\">booking</span></strong><br><br></li>\n<li><span style=\"color: #ce3832;\"><a href=\"mailto:info@fortressofthebear.com\" style=\"color: #ce3832;\">Email us here</a></span> for <strong><span style=\"color: #8c864c;\">everything else</span></strong></li>\n</ul>\n<script async=\"\" data-uid=\"45b99cd4e9\" src=\"https://winning-trader-5682.ck.page/45b99cd4e9/index.js\"></script>",
             "image": "https://rightsok.github.io/fotb/media/posts/18/bear_call-2.png",
             "author": {
                 "name": "the bear"
@@ -23,22 +38,7 @@
             "tags": [
             ],
             "date_published": "2022-09-10T17:48:55-07:00",
-            "date_modified": "2022-09-10T19:19:35-07:00"
-        },
-        {
-            "id": "https://rightsok.github.io/fotb/the-tour.html",
-            "url": "https://rightsok.github.io/fotb/the-tour.html",
-            "title": "the tour",
-            "summary": "2022 heroes around tour 08.21.22 high dive seattle, WA tickets 09.03.22 eagle&hellip;",
-            "content_html": "<h1><span style=\"color: #8c864c;\"><span style=\"color: #000000;\">2022</span><br>heroes around<br><span style=\"color: #000000;\">tour</span></span></h1>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 17.8317%;\"><strong><span style=\"color: #8c864c;\">08.21.22</span></strong></td>\n<td style=\"width: 30.8085%;\"><span style=\"color: #ce3832;\"><a href=\"https://highdiveseattle.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">high dive</a></span></td>\n<td style=\"width: 32.6723%;\">seattle, WA</td>\n<td style=\"width: 18.6876%;\"><span style=\"color: #ce3832;\"><a href=\"https://www.tixr.com/groups/highdive/events/fortress-of-the-bear-album-release-show-46149\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">tickets</a></span></td>\n</tr>\n<tr>\n<td style=\"width: 17.8317%;\"><strong><span style=\"color: #8c864c;\">09.03.22</span></strong></td>\n<td style=\"width: 30.8085%;\"><span style=\"color: #ce3832;\"><a href=\"http://www.eaglehavenwinery.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">eagle haven winery</a></span></td>\n<td style=\"width: 32.6723%;\">sedro-woolley, WA</td>\n<td style=\"width: 18.6876%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 17.8317%;\"><strong><span style=\"color: #8c864c;\">10.08.22</span></strong></td>\n<td style=\"width: 30.8085%;\"><span style=\"color: #ce3832;\"><a href=\"https://visitmoscowid.com/listing-single/johns-alley-tavern/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">john's ally tavern</a></span></td>\n<td style=\"width: 32.6723%;\">moscow, ID</td>\n<td style=\"width: 18.6876%;\"> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
-            "image": "https://rightsok.github.io/fotb/media/posts/17/bear_ontour-4.png",
-            "author": {
-                "name": "the bear"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-10T17:28:16-07:00",
-            "date_modified": "2022-09-11T14:19:25-07:00"
+            "date_modified": "2022-09-11T16:29:41-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/the-music.html",
