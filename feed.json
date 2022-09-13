@@ -118,7 +118,7 @@
             "url": "https://rightsok.github.io/fotb/the-merch.html",
             "title": "the merch",
             "summary": "coming soon (these are demo products) xProductBrowser(\"categoriesPerRow=3\",\"views=grid(20,3) list(60) table(60)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-79150813\");",
-            "content_html": "<h1 class=\"align-center\">coming soon (these are demo products)</h1>\n<div id=\"my-store-79150813\"></div>\n<div>\n<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://api-e.lightspeed.app/script.js?79150813&amp;data_platform=code&amp;data_date=2022-09-13\" charset=\"utf-8\"></script>\n<script type=\"text/javascript\"> xProductBrowser(\"categoriesPerRow=3\",\"views=grid(20,3) list(60) table(60)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-79150813\");</script>\n</div>",
+            "content_html": "<h5 class=\"align-center\">coming soon<br>(these are demo products)</h5>\n<div id=\"my-store-79150813\"></div>\n<div>\n<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://api-e.lightspeed.app/script.js?79150813&amp;data_platform=code&amp;data_date=2022-09-13\" charset=\"utf-8\"></script>\n<script type=\"text/javascript\"> xProductBrowser(\"categoriesPerRow=3\",\"views=grid(20,3) list(60) table(60)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-79150813\");</script>\n</div>",
             "image": "https://rightsok.github.io/fotb/media/posts/5/bear_shopping.png",
             "author": {
                 "name": "the bear"
@@ -126,7 +126,7 @@
             "tags": [
             ],
             "date_published": "2022-09-09T13:55:04-07:00",
-            "date_modified": "2022-09-13T16:04:08-07:00"
+            "date_modified": "2022-09-13T16:06:02-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/the-band.html",

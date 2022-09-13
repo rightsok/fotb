@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-13T16:04:08-07:00</updated>
+    <updated>2022-09-13T16:06:02-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -230,7 +230,7 @@
         <link href="https://rightsok.github.io/fotb/the-merch.html"/>
         <id>https://rightsok.github.io/fotb/the-merch.html</id>
 
-        <updated>2022-09-13T16:04:08-07:00</updated>
+        <updated>2022-09-13T16:06:02-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rightsok.github.io/fotb/media/posts/5/bear_shopping.png" alt="bear shopping" />
@@ -240,7 +240,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://rightsok.github.io/fotb/media/posts/5/bear_shopping.png" alt="bear shopping" />
-                <h1 class="align-center">coming soon (these are demo products)</h1>
+                <h5 class="align-center">coming soon<br>(these are demo products)</h5>
 <div id="my-store-79150813"></div>
 <div>
 <script data-cfasync="false" type="text/javascript" src="https://api-e.lightspeed.app/script.js?79150813&amp;data_platform=code&amp;data_date=2022-09-13" charset="utf-8"></script>
