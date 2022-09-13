@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-12T16:47:07-07:00</updated>
+    <updated>2022-09-13T16:03:38-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -230,17 +230,22 @@
         <link href="https://rightsok.github.io/fotb/the-merch.html"/>
         <id>https://rightsok.github.io/fotb/the-merch.html</id>
 
-        <updated>2022-09-11T13:12:21-07:00</updated>
+        <updated>2022-09-13T16:03:38-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rightsok.github.io/fotb/media/posts/5/bear_shopping.png" alt="bear shopping" />
-                    coming soon
+                    coming soon xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-79150813");
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://rightsok.github.io/fotb/media/posts/5/bear_shopping.png" alt="bear shopping" />
                 <h1>coming soon</h1>
+<div id="my-store-79150813"></div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://api-e.lightspeed.app/script.js?79150813&amp;data_platform=code&amp;data_date=2022-09-13" charset="utf-8"></script>
+<script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-79150813");</script>
+</div>
             ]]>
         </content>
     </entry>
