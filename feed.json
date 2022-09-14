@@ -26,21 +26,6 @@
             "date_modified": "2022-09-12T12:57:00-07:00"
         },
         {
-            "id": "https://rightsok.github.io/fotb/contact.html",
-            "url": "https://rightsok.github.io/fotb/contact.html",
-            "title": "contact",
-            "summary": "Email us here for questions about merchandise Email us here for questions&hellip;",
-            "content_html": "<ul>\n<li><span style=\"color: #ce3832;\"><a href=\"mailto:merch@fortressofthebear.com\" style=\"color: #ce3832;\">Email us here</a></span> for questions about <strong><span style=\"color: #8c864c;\">merchandise</span></strong><br><br></li>\n<li><span style=\"color: #ce3832;\"><a href=\"mailto:booking@fortressofthebear.com\" style=\"color: #ce3832;\">Email us here</a></span> for questions about <strong><span style=\"color: #8c864c;\">tours</span></strong> and <strong><span style=\"color: #8c864c;\">booking</span></strong><br><br></li>\n<li><span style=\"color: #ce3832;\"><a href=\"mailto:info@fortressofthebear.com\" style=\"color: #ce3832;\">Email us here</a></span> for <strong><span style=\"color: #8c864c;\">everything else</span></strong></li>\n</ul>\n<br>\n<p>\n<script async=\"\" data-uid=\"45b99cd4e9\" src=\"https://winning-trader-5682.ck.page/45b99cd4e9/index.js\"></script>\n</p>",
-            "image": "https://rightsok.github.io/fotb/media/posts/18/bear_call-2.png",
-            "author": {
-                "name": "the bear"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-10T17:48:55-07:00",
-            "date_modified": "2022-09-12T16:47:07-07:00"
-        },
-        {
             "id": "https://rightsok.github.io/fotb/the-music.html",
             "url": "https://rightsok.github.io/fotb/the-music.html",
             "title": "the music",
@@ -82,21 +67,6 @@
             ],
             "date_published": "2022-09-10T15:42:09-07:00",
             "date_modified": "2022-09-11T13:12:35-07:00"
-        },
-        {
-            "id": "https://rightsok.github.io/fotb/news.html",
-            "url": "https://rightsok.github.io/fotb/news.html",
-            "title": "news",
-            "summary": "coming soon",
-            "content_html": "<h1>coming soon</h1>",
-            "image": "https://rightsok.github.io/fotb/media/posts/11/bear_news.png",
-            "author": {
-                "name": "the bear"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-09T14:31:14-07:00",
-            "date_modified": "2022-09-10T19:06:06-07:00"
         },
         {
             "id": "https://rightsok.github.io/fotb/releases.html",
