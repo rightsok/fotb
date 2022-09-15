@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://fortressofthebear.com/feed.xml" rel="self" />
     <link href="https://fortressofthebear.com" />
-    <updated>2022-09-15T14:32:50-07:00</updated>
+    <updated>2022-09-15T15:25:32-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -204,6 +204,28 @@
         </content>
     </entry>
     <entry>
+        <title>news</title>
+        <author>
+            <name>the bear</name>
+        </author>
+        <link href="https://fortressofthebear.com/news.html"/>
+        <id>https://fortressofthebear.com/news.html</id>
+
+        <updated>2022-09-15T15:16:22-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fortressofthebear.com/media/posts/11/bear_news-3.png" alt="" />
+                    upcoming shows new merch ...probably more coming soon
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://fortressofthebear.com/media/posts/11/bear_news-3.png" alt="" />
+                <h1 class="align-center">upcoming shows<br>new merch<br>...probably more<br><br>coming soon</h1>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>releases</title>
         <author>
             <name>the bear</name>
@@ -273,6 +295,28 @@
 		xProductBrowser("categoriesPerRow=3", "views=grid(20,3) list(60) table(60)", "categoryView=grid", "searchView=list", "id=my-store-79150813");
 	</script>
 </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>band</title>
+        <author>
+            <name>the bear</name>
+        </author>
+        <link href="https://fortressofthebear.com/the-band.html"/>
+        <id>https://fortressofthebear.com/the-band.html</id>
+
+        <updated>2022-09-15T15:25:32-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fortressofthebear.com/media/posts/3/bear_theband.png" alt="the band" />
+                    who are fortress of the bear? coming soon
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://fortressofthebear.com/media/posts/3/bear_theband.png" alt="the band" />
+                <h1 class="align-center">who are<br>fortress of the bear?<br><br>coming soon</h1>
             ]]>
         </content>
     </entry>
