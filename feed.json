@@ -98,6 +98,21 @@
             ],
             "date_published": "2022-09-09T14:29:13-07:00",
             "date_modified": "2022-09-10T19:03:50-07:00"
+        },
+        {
+            "id": "https://fortressofthebear.com/the-merch.html",
+            "url": "https://fortressofthebear.com/the-merch.html",
+            "title": "the merch",
+            "summary": "xProductBrowser(\"categoriesPerRow=3\", \"views=grid(20,3) list(60) table(60)\", \"categoryView=grid\", \"searchView=list\", \"id=my-store-79150813\");",
+            "content_html": "<div id=\"my-store-79150813\"></div>\n<div>\n<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://api-e.lightspeed.app/script.js?79150813&amp;data_platform=code&amp;data_date=2022-09-13\" charset=\"utf-8\"></script>\n<script type=\"text/javascript\">\n\t\txProductBrowser(\"categoriesPerRow=3\", \"views=grid(20,3) list(60) table(60)\", \"categoryView=grid\", \"searchView=list\", \"id=my-store-79150813\");\n\t</script>\n</div>",
+            "image": "https://fortressofthebear.com/media/posts/5/bear_shopping.png",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-09T13:55:04-07:00",
+            "date_modified": "2022-09-14T16:14:56-07:00"
         }
     ]
 }
