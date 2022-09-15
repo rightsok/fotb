@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "",
     "description": "",
-    "home_page_url": "https://rightsok.github.io/fotb",
-    "feed_url": "https://rightsok.github.io/fotb/feed.json",
+    "home_page_url": "https://fortressofthebear.com",
+    "feed_url": "https://fortressofthebear.com/feed.json",
     "user_comment": "",
-    "icon": "https://rightsok.github.io/fotb/media/website/bear_bath.png",
+    "icon": "https://fortressofthebear.com/media/website/bear_bath.png",
     "author": {
         "name": "the bear"
     },
     "items": [
         {
-            "id": "https://rightsok.github.io/fotb/the-shows.html",
-            "url": "https://rightsok.github.io/fotb/the-shows.html",
+            "id": "https://fortressofthebear.com/the-shows.html",
+            "url": "https://fortressofthebear.com/the-shows.html",
             "title": "the shows",
             "summary": "2022 heroes around shows 08.21.22 high dive seattle, WA 09.03.22 eagle haven&hellip;",
             "content_html": "<h1><span style=\"color: #8c864c;\"><span style=\"color: #000000;\">2022</span><br>heroes around<br><span style=\"color: #000000;\">shows</span></span></h1>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 17.8317%;\"><strong><span style=\"color: #8c864c;\">08.21.22</span></strong></td>\n<td style=\"width: 30.8085%;\"><span style=\"color: #ce3832;\"><a href=\"https://highdiveseattle.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">high dive</a></span></td>\n<td style=\"width: 32.6723%;\">seattle, WA</td>\n<td style=\"width: 18.6876%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 17.8317%;\"><strong><span style=\"color: #8c864c;\">09.03.22</span></strong></td>\n<td style=\"width: 30.8085%;\"><span style=\"color: #ce3832;\"><a href=\"http://www.eaglehavenwinery.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">eagle haven winery</a></span></td>\n<td style=\"width: 32.6723%;\">sedro-woolley, WA</td>\n<td style=\"width: 18.6876%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 17.8317%;\"><strong><span style=\"color: #8c864c;\">10.08.22</span></strong></td>\n<td style=\"width: 30.8085%;\"><span style=\"color: #ce3832;\"><a href=\"https://visitmoscowid.com/listing-single/johns-alley-tavern/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">john's ally tavern</a></span></td>\n<td style=\"width: 32.6723%;\">moscow, ID</td>\n<td style=\"width: 18.6876%;\"> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
-            "image": "https://rightsok.github.io/fotb/media/posts/19/bear_tour.png",
+            "image": "https://fortressofthebear.com/media/posts/19/bear_tour.png",
             "author": {
                 "name": "the bear"
             },
@@ -26,11 +26,26 @@
             "date_modified": "2022-09-15T09:08:05-07:00"
         },
         {
-            "id": "https://rightsok.github.io/fotb/the-music.html",
-            "url": "https://rightsok.github.io/fotb/the-music.html",
+            "id": "https://fortressofthebear.com/contact.html",
+            "url": "https://fortressofthebear.com/contact.html",
+            "title": "contact",
+            "summary": "if you have enquiries about merch, booking, or shows, our business email&hellip;",
+            "content_html": "<ul>\n<li><span style=\"color: #000000;\">if you have enquiries about merch, booking, or shows, our business email is:</span>\n<ul>\n<li><a href=\"mailto:fortressofthebearband@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">f<span style=\"color: #ce3832;\">ortressofthebear (at) gmail.com</span></a></li>\n</ul>\n</li>\n</ul>\n<h1 class=\"align-center\">mailing list<br>coming soon!</h1>",
+            "image": "https://fortressofthebear.com/media/posts/18/bear_call-2.png",
+            "author": {
+                "name": "the bear"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-10T17:48:55-07:00",
+            "date_modified": "2022-09-15T10:02:36-07:00"
+        },
+        {
+            "id": "https://fortressofthebear.com/the-music.html",
+            "url": "https://fortressofthebear.com/the-music.html",
             "title": "the music",
             "content_html": "<center>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"700\" height=\"400\" style=\"border-radius: 12px;\" src=\"https://open.spotify.com/embed/artist/68nQzX54fhdo5YPPiseAJA?utm_source=generator&amp;theme=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" gt=\"\" figure=\"\"></iframe></div></figure>\n</center>",
-            "image": "https://rightsok.github.io/fotb/media/posts/16/bears_party.png",
+            "image": "https://fortressofthebear.com/media/posts/16/bears_party.png",
             "author": {
                 "name": "the bear"
             },
@@ -40,12 +55,12 @@
             "date_modified": "2022-09-11T13:17:49-07:00"
         },
         {
-            "id": "https://rightsok.github.io/fotb/heroes-around-album-release.html",
-            "url": "https://rightsok.github.io/fotb/heroes-around-album-release.html",
+            "id": "https://fortressofthebear.com/heroes-around-album-release.html",
+            "url": "https://fortressofthebear.com/heroes-around-album-release.html",
             "title": "heroes around album release",
             "summary": "available digital on Apple Music or Spotify physical via the merch page",
-            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/15/fotb_heroes_album-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/15/responsive/fotb_heroes_album-2-xs.png 300w ,https://rightsok.github.io/fotb/media/posts/15/responsive/fotb_heroes_album-2-sm.png 480w ,https://rightsok.github.io/fotb/media/posts/15/responsive/fotb_heroes_album-2-md.png 768w ,https://rightsok.github.io/fotb/media/posts/15/responsive/fotb_heroes_album-2-lg.png 1024w\"  alt=\"heroes around album cover\" width=\"500\" height=\"501\"></figure>\n<h1 class=\"align-left\">available</h1>\n<ul>\n<li>digital on <span style=\"color: #ce3832;\"><a href=\"https://music.apple.com/us/artist/fortress-of-the-bear/1281009078\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">Apple Music</a></span> or <span style=\"color: #ce3832;\"><a href=\"https://open.spotify.com/artist/68nQzX54fhdo5YPPiseAJA\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">Spotify</a></span></li>\n<li>physical via the <span style=\"color: #ce3832;\"><a href=\"https://rightsok.github.io/fotb/the-merch.html\" style=\"color: #ce3832;\">merch page</a></span></li>\n</ul>\n<figure class=\"post__embed--16x9\"></figure>",
-            "image": "https://rightsok.github.io/fotb/media/posts/15/fotb_heroes_album.png",
+            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://fortressofthebear.com/media/posts/15/fotb_heroes_album-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-xs.png 300w ,https://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-sm.png 480w ,https://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-md.png 768w ,https://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-lg.png 1024w\"  alt=\"heroes around album cover\" width=\"500\" height=\"501\"></figure>\n<h1 class=\"align-left\">available</h1>\n<ul>\n<li>digital on <span style=\"color: #ce3832;\"><a href=\"https://music.apple.com/us/artist/fortress-of-the-bear/1281009078\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">Apple Music</a></span> or <span style=\"color: #ce3832;\"><a href=\"https://open.spotify.com/artist/68nQzX54fhdo5YPPiseAJA\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ce3832;\">Spotify</a></span></li>\n<li>physical via the <span style=\"color: #ce3832;\"><a href=\"https://fortressofthebear.com/the-merch.html\" style=\"color: #ce3832;\">merch page</a></span></li>\n</ul>\n<figure class=\"post__embed--16x9\"></figure>",
+            "image": "https://fortressofthebear.com/media/posts/15/fotb_heroes_album.png",
             "author": {
                 "name": "the bear"
             },
@@ -55,11 +70,11 @@
             "date_modified": "2022-09-15T09:06:42-07:00"
         },
         {
-            "id": "https://rightsok.github.io/fotb/the-videos.html",
-            "url": "https://rightsok.github.io/fotb/the-videos.html",
+            "id": "https://fortressofthebear.com/the-videos.html",
+            "url": "https://fortressofthebear.com/the-videos.html",
             "title": "the videos",
             "content_html": "<center>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/Tvgx7PzUIZk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/feE8BJPxc1c\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/l3aeCc5ib_k\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/ZwtFogVnjeY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n<figure class=\"post__embed--16x9\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"678\" height=\"400\" style=\"width: 678px; height: 400px;\" src=\"https://www.youtube.com/embed/nYX29qskmZ0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div></figure>\n</center>",
-            "image": "https://rightsok.github.io/fotb/media/posts/14/bear_action.png",
+            "image": "https://fortressofthebear.com/media/posts/14/bear_action.png",
             "author": {
                 "name": "the bear"
             },
@@ -69,12 +84,12 @@
             "date_modified": "2022-09-11T13:12:35-07:00"
         },
         {
-            "id": "https://rightsok.github.io/fotb/releases.html",
-            "url": "https://rightsok.github.io/fotb/releases.html",
+            "id": "https://fortressofthebear.com/releases.html",
+            "url": "https://fortressofthebear.com/releases.html",
             "title": "releases",
             "summary": "Heroes Around 2022 Concrete Drive 2020 Tom's Living Room 2019 Fortress of&hellip;",
-            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Heroes Around</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2022</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/15ONrTJC3ADti4rEo0i0Gq?si=4DQd6u4JRwSpHzz4_cx6qw\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-xs.png 300w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-sm.png 480w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-md.png 768w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Concrete Drive</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2020</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/5haMGVc8AueGWFn4jFynQq?si=lEBB2AZ9RAab1koeYAHFgg\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-xs.png 300w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-sm.png 480w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-md.png 768w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Tom's Living Room</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2019</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/7LbOXn27ngjOtFrj8znFcy?si=O0Gs4FhASbS0cC1VT585-A\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-xs.png 300w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-sm.png 480w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-md.png 768w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Fortress of The Bear</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2017</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/1TTj9XZqi0mxjB2dl82ixv?si=LIV_rXRITJe2KgLe13j-pw\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://rightsok.github.io/fotb/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-xs.png 300w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-sm.png 480w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-md.png 768w ,https://rightsok.github.io/fotb/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n</tbody>\n</table>",
-            "image": "https://rightsok.github.io/fotb/media/posts/9/bear_strummer.png",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Heroes Around</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2022</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/15ONrTJC3ADti4rEo0i0Gq?si=4DQd6u4JRwSpHzz4_cx6qw\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://fortressofthebear.com/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Concrete Drive</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2020</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/5haMGVc8AueGWFn4jFynQq?si=lEBB2AZ9RAab1koeYAHFgg\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://fortressofthebear.com/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Tom's Living Room</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2019</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/7LbOXn27ngjOtFrj8znFcy?si=O0Gs4FhASbS0cC1VT585-A\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://fortressofthebear.com/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n<tr>\n<td style=\"width: 33.2855%;\"><strong><span style=\"color: #8c864c;\">Fortress of The Bear</span></strong></td>\n<td class=\"align-center\" style=\"width: 33.2855%;\">2017</td>\n<td class=\"align-center\" style=\"width: 33.2866%;\"><a href=\"https://open.spotify.com/album/1TTj9XZqi0mxjB2dl82ixv?si=LIV_rXRITJe2KgLe13j-pw\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://fortressofthebear.com/media/posts/9/spotify.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w\"  alt=\"spotify\" width=\"50\" height=\"50\"></figure></a></td>\n</tr>\n</tbody>\n</table>",
+            "image": "https://fortressofthebear.com/media/posts/9/bear_strummer.png",
             "author": {
                 "name": "the bear"
             },
