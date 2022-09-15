@@ -28,9 +28,9 @@
         {
             "id": "https://fortressofthebear.com/contact.html",
             "url": "https://fortressofthebear.com/contact.html",
-            "title": "contact",
+            "title": "contact &amp; mailing list",
             "summary": "if you have inquiries about merch, booking, or shows, our business email&hellip;",
-            "content_html": "<ul>\n<li><span style=\"color: #000000;\">if you have inquiries about merch, booking, or shows, our business email is: </span><a href=\"mailto:fortressofthebearband@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-align: center; font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">f<span style=\"color: #ce3832;\">ortressofthebear (at) gmail.com</span></a></li>\n</ul>\n<br>\n<script async=\"\" data-uid=\"45b99cd4e9\" src=\"https://winning-trader-5682.ck.page/45b99cd4e9/index.js\"></script>",
+            "content_html": "<ul>\n<li><span style=\"color: #000000;\">if you have inquiries about merch, booking, or shows, our business email is: </span><a href=\"mailto:fortressofthebearband@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-align: center; font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">f<span style=\"color: #ce3832;\">ortressofthebear (at) gmail.com</span></a></li>\n</ul>\n<p><br>\n<script async=\"\" data-uid=\"45b99cd4e9\" src=\"https://winning-trader-5682.ck.page/45b99cd4e9/index.js\"></script>\n</p>",
             "image": "https://fortressofthebear.com/media/posts/18/bear_call-2.png",
             "author": {
                 "name": "the bear"
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2022-09-10T17:48:55-07:00",
-            "date_modified": "2022-09-15T14:21:34-07:00"
+            "date_modified": "2022-09-15T14:21:57-07:00"
         },
         {
             "id": "https://fortressofthebear.com/the-music.html",

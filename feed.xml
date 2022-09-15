@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://fortressofthebear.com/feed.xml" rel="self" />
     <link href="https://fortressofthebear.com" />
-    <updated>2022-09-15T14:21:34-07:00</updated>
+    <updated>2022-09-15T14:21:57-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -55,14 +55,14 @@
         </content>
     </entry>
     <entry>
-        <title>contact</title>
+        <title>contact &amp; mailing list</title>
         <author>
             <name>the bear</name>
         </author>
         <link href="https://fortressofthebear.com/contact.html"/>
         <id>https://fortressofthebear.com/contact.html</id>
 
-        <updated>2022-09-15T14:21:34-07:00</updated>
+        <updated>2022-09-15T14:21:57-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fortressofthebear.com/media/posts/18/bear_call-2.png" alt="saved by the angry bear" />
@@ -75,8 +75,9 @@
                 <ul>
 <li><span style="color: #000000;">if you have inquiries about merch, booking, or shows, our business email is: </span><a href="mailto:fortressofthebearband@gmail.com" target="_blank" rel="noopener noreferrer" style="text-align: center; font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">f<span style="color: #ce3832;">ortressofthebear (at) gmail.com</span></a></li>
 </ul>
-<br>
+<p><br>
 <script async="" data-uid="45b99cd4e9" src="https://winning-trader-5682.ck.page/45b99cd4e9/index.js"></script>
+</p>
             ]]>
         </content>
     </entry>
