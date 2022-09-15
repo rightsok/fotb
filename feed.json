@@ -29,8 +29,8 @@
             "id": "https://fortressofthebear.com/contact.html",
             "url": "https://fortressofthebear.com/contact.html",
             "title": "contact",
-            "summary": "if you have enquiries about merch, booking, or shows, our business email&hellip;",
-            "content_html": "<ul>\n<li><span style=\"color: #000000;\">if you have enquiries about merch, booking, or shows, our business email is:</span>\n<ul>\n<li><a href=\"mailto:fortressofthebearband@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">f<span style=\"color: #ce3832;\">ortressofthebear (at) gmail.com</span></a></li>\n</ul>\n</li>\n</ul>\n<h1 class=\"align-center\">mailing list<br>coming soon!</h1>",
+            "summary": "if you have inquiries about merch, booking, or shows, our business email&hellip;",
+            "content_html": "<ul>\n<li><span style=\"color: #000000;\">if you have inquiries about merch, booking, or shows, our business email is:</span>\n<ul>\n<li><a href=\"mailto:fortressofthebearband@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">f<span style=\"color: #ce3832;\">ortressofthebear (at) gmail.com</span></a></li>\n</ul>\n</li>\n</ul>\n<h1 class=\"align-center\">mailing list<br>coming soon!</h1>",
             "image": "https://fortressofthebear.com/media/posts/18/bear_call-2.png",
             "author": {
                 "name": "the bear"
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2022-09-10T17:48:55-07:00",
-            "date_modified": "2022-09-15T10:02:36-07:00"
+            "date_modified": "2022-09-15T10:26:20-07:00"
         },
         {
             "id": "https://fortressofthebear.com/the-music.html",
