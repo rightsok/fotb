@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://rightsok.github.io/fotb/feed.xml" rel="self" />
     <link href="https://rightsok.github.io/fotb" />
-    <updated>2022-09-12T12:57:00-07:00</updated>
+    <updated>2022-09-15T09:08:05-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://rightsok.github.io/fotb/the-shows.html"/>
         <id>https://rightsok.github.io/fotb/the-shows.html</id>
 
-        <updated>2022-09-12T12:57:00-07:00</updated>
+        <updated>2022-09-15T09:08:05-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rightsok.github.io/fotb/media/posts/19/bear_tour.png" alt="bear shows" />
-                    2022 heroes around shows 08.21.22 high dive seattle, WA tickets 09.03.22 eagle&hellip;
+                    2022 heroes around shows 08.21.22 high dive seattle, WA 09.03.22 eagle haven&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -34,7 +34,7 @@
 <td style="width: 17.8317%;"><strong><span style="color: #8c864c;">08.21.22</span></strong></td>
 <td style="width: 30.8085%;"><span style="color: #ce3832;"><a href="https://highdiveseattle.com/" target="_blank" rel="noopener noreferrer" style="color: #ce3832;">high dive</a></span></td>
 <td style="width: 32.6723%;">seattle, WA</td>
-<td style="width: 18.6876%;"><span style="color: #ce3832;"><a href="https://www.tixr.com/groups/highdive/events/fortress-of-the-bear-album-release-show-46149" target="_blank" rel="noopener noreferrer" style="color: #ce3832;">tickets</a></span></td>
+<td style="width: 18.6876%;"> </td>
 </tr>
 <tr>
 <td style="width: 17.8317%;"><strong><span style="color: #8c864c;">09.03.22</span></strong></td>
@@ -81,11 +81,11 @@
         <link href="https://rightsok.github.io/fotb/heroes-around-album-release.html"/>
         <id>https://rightsok.github.io/fotb/heroes-around-album-release.html</id>
 
-        <updated>2022-09-10T19:09:30-07:00</updated>
+        <updated>2022-09-15T09:06:42-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rightsok.github.io/fotb/media/posts/15/fotb_heroes_album.png" alt="heroes around album cover" />
-                    available digital on Apple Music or Spotify physical via the merch page&hellip;
+                    available digital on Apple Music or Spotify physical via the merch page
                 ]]>
             </summary>
         <content type="html">
@@ -97,8 +97,7 @@
 <li>digital on <span style="color: #ce3832;"><a href="https://music.apple.com/us/artist/fortress-of-the-bear/1281009078" target="_blank" rel="noopener noreferrer" style="color: #ce3832;">Apple Music</a></span> or <span style="color: #ce3832;"><a href="https://open.spotify.com/artist/68nQzX54fhdo5YPPiseAJA" target="_blank" rel="noopener noreferrer" style="color: #ce3832;">Spotify</a></span></li>
 <li>physical via the <span style="color: #ce3832;"><a href="https://rightsok.github.io/fotb/the-merch.html" style="color: #ce3832;">merch page</a></span></li>
 </ul>
-<h1 class="align-left">watch the release show</h1>
-<figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/Tvgx7PzUIZk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
+<figure class="post__embed--16x9"></figure>
             ]]>
         </content>
     </entry>
