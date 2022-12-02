@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title></title>
-    <link href="https://fortressofthebear.com/feed.xml" rel="self" />
-    <link href="https://fortressofthebear.com" />
+    <link href="http://fortressofthebear.com/feed.xml" rel="self" />
+    <link href="http://fortressofthebear.com" />
     <updated>2022-10-13T10:54:24-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
-    <id>https://fortressofthebear.com</id>
+    <id>http://fortressofthebear.com</id>
 
     <entry>
         <title>the shows</title>
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://fortressofthebear.com/the-shows.html"/>
-        <id>https://fortressofthebear.com/the-shows.html</id>
+        <link href="http://fortressofthebear.com/the-shows.html"/>
+        <id>http://fortressofthebear.com/the-shows.html</id>
+        <media:content url="http://fortressofthebear.com/media/posts/19/bear_tour.png" medium="image" />
 
         <updated>2022-10-13T10:54:24-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fortressofthebear.com/media/posts/19/bear_tour.png" alt="bear shows" />
+                        <img src="http://fortressofthebear.com/media/posts/19/bear_tour.png" alt="bear shows" />
                     2022 heroes around shows 08.21.22 high dive seattle, WA 09.03.22 eagle haven&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://fortressofthebear.com/media/posts/19/bear_tour.png" alt="bear shows" />
+                    <p><img src="http://fortressofthebear.com/media/posts/19/bear_tour.png" class="type:primaryImage" alt="bear shows" /></p>
                 <h1><span style="color: #8c864c;"><span style="color: #000000;">2022</span><br>heroes around<br><span style="color: #000000;">shows</span></span></h1>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
@@ -71,19 +72,20 @@
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://fortressofthebear.com/contact.html"/>
-        <id>https://fortressofthebear.com/contact.html</id>
+        <link href="http://fortressofthebear.com/contact.html"/>
+        <id>http://fortressofthebear.com/contact.html</id>
+        <media:content url="http://fortressofthebear.com/media/posts/18/bear_call-2.png" medium="image" />
 
         <updated>2022-09-15T14:21:57-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fortressofthebear.com/media/posts/18/bear_call-2.png" alt="saved by the angry bear" />
+                        <img src="http://fortressofthebear.com/media/posts/18/bear_call-2.png" alt="saved by the angry bear" />
                     if you have inquiries about merch, booking, or shows, our business email&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://fortressofthebear.com/media/posts/18/bear_call-2.png" alt="saved by the angry bear" />
+                    <p><img src="http://fortressofthebear.com/media/posts/18/bear_call-2.png" class="type:primaryImage" alt="saved by the angry bear" /></p>
                 <ul>
 <li><span style="color: #000000;">if you have inquiries about merch, booking, or shows, our business email is: </span><a href="mailto:fortressofthebearband@gmail.com" target="_blank" rel="noopener noreferrer" style="text-align: center; font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">f<span style="color: #ce3832;">ortressofthebear (at) gmail.com</span></a></li>
 </ul>
@@ -98,19 +100,20 @@
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://fortressofthebear.com/the-music.html"/>
-        <id>https://fortressofthebear.com/the-music.html</id>
+        <link href="http://fortressofthebear.com/the-music.html"/>
+        <id>http://fortressofthebear.com/the-music.html</id>
+        <media:content url="http://fortressofthebear.com/media/posts/16/bears_party.png" medium="image" />
 
         <updated>2022-09-15T14:32:50-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fortressofthebear.com/media/posts/16/bears_party.png" alt="bear party" />
+                        <img src="http://fortressofthebear.com/media/posts/16/bears_party.png" alt="bear party" />
                     heroes around 2022 listen on Spotify the greater good (single) 2020 listen&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://fortressofthebear.com/media/posts/16/bears_party.png" alt="bear party" />
+                    <p><img src="http://fortressofthebear.com/media/posts/16/bears_party.png" class="type:primaryImage" alt="bear party" /></p>
                 <center>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="700" height="400" style="border-radius: 12px;" src="https://open.spotify.com/embed/artist/68nQzX54fhdo5YPPiseAJA?utm_source=generator&amp;theme=0" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" gt="" figure=""></iframe></div></figure>
 </center>
@@ -152,21 +155,22 @@
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://fortressofthebear.com/heroes-around-album-release.html"/>
-        <id>https://fortressofthebear.com/heroes-around-album-release.html</id>
+        <link href="http://fortressofthebear.com/heroes-around-album-release.html"/>
+        <id>http://fortressofthebear.com/heroes-around-album-release.html</id>
+        <media:content url="http://fortressofthebear.com/media/posts/15/bear_harelease.png" medium="image" />
 
         <updated>2022-09-15T14:19:08-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fortressofthebear.com/media/posts/15/bear_harelease.png" alt="heroes around album cover" />
+                        <img src="http://fortressofthebear.com/media/posts/15/bear_harelease.png" alt="heroes around album cover" />
                     heroes around 2022 features 9 tracks: daily blues bats in the belfry&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://fortressofthebear.com/media/posts/15/bear_harelease.png" alt="heroes around album cover" />
+                    <p><img src="http://fortressofthebear.com/media/posts/15/bear_harelease.png" class="type:primaryImage" alt="heroes around album cover" /></p>
                 <center>
-<figure class="post__image align-center"><img loading="lazy"  src="https://fortressofthebear.com/media/posts/15/fotb_heroes_album-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-xs.png 300w ,https://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-sm.png 480w ,https://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-md.png 768w ,https://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-lg.png 1024w"  alt="heroes around album cover" width="380" height="381"></figure>
+<figure class="post__image align-center"><img loading="lazy"  src="http://fortressofthebear.com/media/posts/15/fotb_heroes_album-2.png" alt="heroes around album cover" width="380" height="381" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-xs.png 300w ,http://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-sm.png 480w ,http://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-md.png 768w ,http://fortressofthebear.com/media/posts/15/responsive/fotb_heroes_album-2-lg.png 1024w"></figure>
 </center>
 <ul>
 <li>heroes around 2022</li>
@@ -187,7 +191,7 @@
 <h1 class="align-left">available</h1>
 <ul>
 <li>digital on <span style="color: #ce3832;"><a href="https://music.apple.com/us/artist/fortress-of-the-bear/1281009078" target="_blank" rel="noopener noreferrer" style="color: #ce3832;">Apple Music</a></span> and <span style="color: #ce3832;"><a href="https://open.spotify.com/artist/68nQzX54fhdo5YPPiseAJA" target="_blank" rel="noopener noreferrer" style="color: #ce3832;">Spotify</a></span></li>
-<li>physical via the <span style="color: #ce3832;"><a href="https://fortressofthebear.com/the-merch.html" style="color: #ce3832;">merch page</a></span></li>
+<li>physical via the <span style="color: #ce3832;"><a href="http://fortressofthebear.com/the-merch.html" style="color: #ce3832;">merch page</a></span></li>
 </ul>
             ]]>
         </content>
@@ -197,14 +201,15 @@
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://fortressofthebear.com/the-videos.html"/>
-        <id>https://fortressofthebear.com/the-videos.html</id>
+        <link href="http://fortressofthebear.com/the-videos.html"/>
+        <id>http://fortressofthebear.com/the-videos.html</id>
+        <media:content url="http://fortressofthebear.com/media/posts/14/bear_action.png" medium="image" />
 
         <updated>2022-09-11T13:12:35-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://fortressofthebear.com/media/posts/14/bear_action.png" alt="bear posing for camera" />
+                    <p><img src="http://fortressofthebear.com/media/posts/14/bear_action.png" class="type:primaryImage" alt="bear posing for camera" /></p>
                 <center>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/Tvgx7PzUIZk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/feE8BJPxc1c" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
@@ -220,19 +225,20 @@
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://fortressofthebear.com/news.html"/>
-        <id>https://fortressofthebear.com/news.html</id>
+        <link href="http://fortressofthebear.com/news.html"/>
+        <id>http://fortressofthebear.com/news.html</id>
+        <media:content url="http://fortressofthebear.com/media/posts/11/bear_news-3.png" medium="image" />
 
         <updated>2022-09-15T15:16:22-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fortressofthebear.com/media/posts/11/bear_news-3.png" alt="" />
+                        <img src="http://fortressofthebear.com/media/posts/11/bear_news-3.png" alt="" />
                     upcoming shows new merch ...probably more coming soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://fortressofthebear.com/media/posts/11/bear_news-3.png" alt="" />
+                    <p><img src="http://fortressofthebear.com/media/posts/11/bear_news-3.png" class="type:primaryImage" alt="" /></p>
                 <h1 class="align-center">upcoming shows<br>new merch<br>...probably more<br><br>coming soon</h1>
             ]]>
         </content>
@@ -242,40 +248,41 @@
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://fortressofthebear.com/releases.html"/>
-        <id>https://fortressofthebear.com/releases.html</id>
+        <link href="http://fortressofthebear.com/releases.html"/>
+        <id>http://fortressofthebear.com/releases.html</id>
+        <media:content url="http://fortressofthebear.com/media/posts/9/bear_strummer.png" medium="image" />
 
         <updated>2022-09-10T19:03:50-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fortressofthebear.com/media/posts/9/bear_strummer.png" alt="bear on acoustic guitare" />
+                        <img src="http://fortressofthebear.com/media/posts/9/bear_strummer.png" alt="bear on acoustic guitare" />
                     Heroes Around 2022 Concrete Drive 2020 Tom's Living Room 2019 Fortress of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://fortressofthebear.com/media/posts/9/bear_strummer.png" alt="bear on acoustic guitare" />
+                    <p><img src="http://fortressofthebear.com/media/posts/9/bear_strummer.png" class="type:primaryImage" alt="bear on acoustic guitare" /></p>
                 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.2855%;"><strong><span style="color: #8c864c;">Heroes Around</span></strong></td>
 <td class="align-center" style="width: 33.2855%;">2022</td>
-<td class="align-center" style="width: 33.2866%;"><a href="https://open.spotify.com/album/15ONrTJC3ADti4rEo0i0Gq?si=4DQd6u4JRwSpHzz4_cx6qw" target="_blank" rel="noopener noreferrer"><figure class="post__image align-center"><img loading="lazy"  src="https://fortressofthebear.com/media/posts/9/spotify.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w"  alt="spotify" width="50" height="50"></figure></a></td>
+<td class="align-center" style="width: 33.2866%;"><a href="https://open.spotify.com/album/15ONrTJC3ADti4rEo0i0Gq?si=4DQd6u4JRwSpHzz4_cx6qw" target="_blank" rel="noopener noreferrer"><figure class="post__image align-center"><img loading="lazy"  src="http://fortressofthebear.com/media/posts/9/spotify.png" alt="spotify" width="50" height="50" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w"></figure></a></td>
 </tr>
 <tr>
 <td style="width: 33.2855%;"><strong><span style="color: #8c864c;">Concrete Drive</span></strong></td>
 <td class="align-center" style="width: 33.2855%;">2020</td>
-<td class="align-center" style="width: 33.2866%;"><a href="https://open.spotify.com/album/5haMGVc8AueGWFn4jFynQq?si=lEBB2AZ9RAab1koeYAHFgg" target="_blank" rel="noopener noreferrer"><figure class="post__image align-center"><img loading="lazy"  src="https://fortressofthebear.com/media/posts/9/spotify.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w"  alt="spotify" width="50" height="50"></figure></a></td>
+<td class="align-center" style="width: 33.2866%;"><a href="https://open.spotify.com/album/5haMGVc8AueGWFn4jFynQq?si=lEBB2AZ9RAab1koeYAHFgg" target="_blank" rel="noopener noreferrer"><figure class="post__image align-center"><img loading="lazy"  src="http://fortressofthebear.com/media/posts/9/spotify.png" alt="spotify" width="50" height="50" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w"></figure></a></td>
 </tr>
 <tr>
 <td style="width: 33.2855%;"><strong><span style="color: #8c864c;">Tom's Living Room</span></strong></td>
 <td class="align-center" style="width: 33.2855%;">2019</td>
-<td class="align-center" style="width: 33.2866%;"><a href="https://open.spotify.com/album/7LbOXn27ngjOtFrj8znFcy?si=O0Gs4FhASbS0cC1VT585-A" target="_blank" rel="noopener noreferrer"><figure class="post__image align-center"><img loading="lazy"  src="https://fortressofthebear.com/media/posts/9/spotify.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w"  alt="spotify" width="50" height="50"></figure></a></td>
+<td class="align-center" style="width: 33.2866%;"><a href="https://open.spotify.com/album/7LbOXn27ngjOtFrj8znFcy?si=O0Gs4FhASbS0cC1VT585-A" target="_blank" rel="noopener noreferrer"><figure class="post__image align-center"><img loading="lazy"  src="http://fortressofthebear.com/media/posts/9/spotify.png" alt="spotify" width="50" height="50" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w"></figure></a></td>
 </tr>
 <tr>
 <td style="width: 33.2855%;"><strong><span style="color: #8c864c;">Fortress of The Bear</span></strong></td>
 <td class="align-center" style="width: 33.2855%;">2017</td>
-<td class="align-center" style="width: 33.2866%;"><a href="https://open.spotify.com/album/1TTj9XZqi0mxjB2dl82ixv?si=LIV_rXRITJe2KgLe13j-pw" target="_blank" rel="noopener noreferrer"><figure class="post__image align-center"><img loading="lazy"  src="https://fortressofthebear.com/media/posts/9/spotify.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,https://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w"  alt="spotify" width="50" height="50"></figure></a></td>
+<td class="align-center" style="width: 33.2866%;"><a href="https://open.spotify.com/album/1TTj9XZqi0mxjB2dl82ixv?si=LIV_rXRITJe2KgLe13j-pw" target="_blank" rel="noopener noreferrer"><figure class="post__image align-center"><img loading="lazy"  src="http://fortressofthebear.com/media/posts/9/spotify.png" alt="spotify" width="50" height="50" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://fortressofthebear.com/media/posts/9/responsive/spotify-xs.png 300w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-sm.png 480w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-md.png 768w ,http://fortressofthebear.com/media/posts/9/responsive/spotify-lg.png 1024w"></figure></a></td>
 </tr>
 </tbody>
 </table>
@@ -287,19 +294,20 @@
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://fortressofthebear.com/the-merch.html"/>
-        <id>https://fortressofthebear.com/the-merch.html</id>
+        <link href="http://fortressofthebear.com/the-merch.html"/>
+        <id>http://fortressofthebear.com/the-merch.html</id>
+        <media:content url="http://fortressofthebear.com/media/posts/5/bear_shopping.png" medium="image" />
 
         <updated>2022-09-14T16:14:56-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fortressofthebear.com/media/posts/5/bear_shopping.png" alt="bear shopping" />
+                        <img src="http://fortressofthebear.com/media/posts/5/bear_shopping.png" alt="bear shopping" />
                     xProductBrowser("categoriesPerRow=3", "views=grid(20,3) list(60) table(60)", "categoryView=grid", "searchView=list", "id=my-store-79150813");
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://fortressofthebear.com/media/posts/5/bear_shopping.png" alt="bear shopping" />
+                    <p><img src="http://fortressofthebear.com/media/posts/5/bear_shopping.png" class="type:primaryImage" alt="bear shopping" /></p>
                 <div id="my-store-79150813"></div>
 <div>
 <script data-cfasync="false" type="text/javascript" src="https://api-e.lightspeed.app/script.js?79150813&amp;data_platform=code&amp;data_date=2022-09-13" charset="utf-8"></script>
@@ -315,19 +323,20 @@
         <author>
             <name>the bear</name>
         </author>
-        <link href="https://fortressofthebear.com/the-band.html"/>
-        <id>https://fortressofthebear.com/the-band.html</id>
+        <link href="http://fortressofthebear.com/the-band.html"/>
+        <id>http://fortressofthebear.com/the-band.html</id>
+        <media:content url="http://fortressofthebear.com/media/posts/3/bear_theband.png" medium="image" />
 
         <updated>2022-09-15T15:25:32-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fortressofthebear.com/media/posts/3/bear_theband.png" alt="the band" />
+                        <img src="http://fortressofthebear.com/media/posts/3/bear_theband.png" alt="the band" />
                     who are fortress of the bear? coming soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://fortressofthebear.com/media/posts/3/bear_theband.png" alt="the band" />
+                    <p><img src="http://fortressofthebear.com/media/posts/3/bear_theband.png" class="type:primaryImage" alt="the band" /></p>
                 <h1 class="align-center">who are<br>fortress of the bear?<br><br>coming soon</h1>
             ]]>
         </content>
