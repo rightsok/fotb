@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://fortressofthebear.com/sitemap.xml
+Sitemap: https://rightsok.github.io/fotb/sitemap.xml
