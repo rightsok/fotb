@@ -1,98 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://fortressofthebear.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://fortressofthebear.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://fortressofthebear.com/</loc>
+<loc>https://fortressofthebear.com/</loc>
 </url>
 <url>
-<loc>http://fortressofthebear.com/contact.html</loc>
+<loc>https://fortressofthebear.com/contact.html</loc>
 <lastmod>2022-09-15T14:21:57-07:00</lastmod>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/18/bear_call-2.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/18/bear_call-2.png</image:loc>
 <image:title><![CDATA[saved by the angry bear]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://fortressofthebear.com/heroes-around-album-release.html</loc>
+<loc>https://fortressofthebear.com/heroes-around-album-release.html</loc>
 <lastmod>2022-09-15T14:19:08-07:00</lastmod>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/15/bear_harelease.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/15/bear_harelease.png</image:loc>
 <image:title><![CDATA[heroes around album cover]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/15/fotb_heroes_album-2.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/15/fotb_heroes_album-2.png</image:loc>
 <image:title><![CDATA[heroes around album cover]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://fortressofthebear.com/news.html</loc>
+<loc>https://fortressofthebear.com/news.html</loc>
 <lastmod>2022-09-15T15:16:22-07:00</lastmod>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/11/bear_news-3.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/11/bear_news-3.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://fortressofthebear.com/releases.html</loc>
+<loc>https://fortressofthebear.com/releases.html</loc>
 <lastmod>2022-09-10T19:03:50-07:00</lastmod>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/9/bear_strummer.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/9/bear_strummer.png</image:loc>
 <image:title><![CDATA[bear on acoustic guitare]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/9/spotify.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/9/spotify.png</image:loc>
 <image:title><![CDATA[spotify]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/9/spotify.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/9/spotify.png</image:loc>
 <image:title><![CDATA[spotify]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/9/spotify.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/9/spotify.png</image:loc>
 <image:title><![CDATA[spotify]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/9/spotify.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/9/spotify.png</image:loc>
 <image:title><![CDATA[spotify]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://fortressofthebear.com/the-band.html</loc>
+<loc>https://fortressofthebear.com/the-band.html</loc>
 <lastmod>2022-09-15T15:25:32-07:00</lastmod>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/3/bear_theband.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/3/bear_theband.png</image:loc>
 <image:title><![CDATA[the band]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://fortressofthebear.com/the-merch.html</loc>
+<loc>https://fortressofthebear.com/the-merch.html</loc>
 <lastmod>2022-09-14T16:14:56-07:00</lastmod>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/5/bear_shopping.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/5/bear_shopping.png</image:loc>
 <image:title><![CDATA[bear shopping]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://fortressofthebear.com/the-music.html</loc>
+<loc>https://fortressofthebear.com/the-music.html</loc>
 <lastmod>2022-09-15T14:32:50-07:00</lastmod>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/16/bears_party.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/16/bears_party.png</image:loc>
 <image:title><![CDATA[bear party]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://fortressofthebear.com/the-shows.html</loc>
+<loc>https://fortressofthebear.com/the-shows.html</loc>
 <lastmod>2022-10-13T10:54:24-07:00</lastmod>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/19/bear_tour.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/19/bear_tour.png</image:loc>
 <image:title><![CDATA[bear shows]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://fortressofthebear.com/the-videos.html</loc>
+<loc>https://fortressofthebear.com/the-videos.html</loc>
 <lastmod>2022-09-11T13:12:35-07:00</lastmod>
 <image:image>
-<image:loc>http://fortressofthebear.com/media/posts/14/bear_action.png</image:loc>
+<image:loc>https://fortressofthebear.com/media/posts/14/bear_action.png</image:loc>
 <image:title><![CDATA[bear posing for camera]]></image:title>
 </image:image>
 </url>
