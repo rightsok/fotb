@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://fortressofthebear.com/feed.xml" rel="self" />
     <link href="https://fortressofthebear.com" />
-    <updated>2022-12-08T15:58:35-08:00</updated>
+    <updated>2023-02-02T15:10:37-08:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -18,47 +18,29 @@
         <id>https://fortressofthebear.com/the-shows.html</id>
         <media:content url="https://fortressofthebear.com/media/posts/19/bear_tour.png" medium="image" />
 
-        <updated>2022-10-13T10:54:24-07:00</updated>
+        <updated>2023-02-02T15:10:37-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fortressofthebear.com/media/posts/19/bear_tour.png" alt="bear shows" />
-                    2022 heroes around shows 08.21.22 high dive seattle, WA 09.03.22 eagle haven&hellip;
+                    2023 heroes around shows 03.24.23 high dive seattle, WA 03.31.23 john's ally&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://fortressofthebear.com/media/posts/19/bear_tour.png" class="type:primaryImage" alt="bear shows" /></p>
-                <h1><span style="color: #8c864c;"><span style="color: #000000;">2022</span><br>heroes around<br><span style="color: #000000;">shows</span></span></h1>
+                <h1><span style="color: #8c864c;"><span style="color: #000000;">2023</span><br>heroes around<br><span style="color: #000000;">shows</span></span></h1>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">08.21.22</span></strong></td>
+<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">03.24.23</span></strong></td>
 <td style="width: 30.8085%;"><span style="color: #ce3832;"><a href="https://highdiveseattle.com/" target="_blank" rel="noopener noreferrer" style="color: #ce3832;">high dive</a></span></td>
 <td style="width: 32.6723%;">seattle, WA</td>
 <td style="width: 18.6876%;"> </td>
 </tr>
 <tr>
-<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">09.03.22</span></strong></td>
-<td style="width: 30.8085%;"><span style="color: #ce3832;"><a href="http://www.eaglehavenwinery.com/" target="_blank" rel="noopener noreferrer" style="color: #ce3832;">eagle haven winery</a></span></td>
-<td style="width: 32.6723%;">sedro-woolley, WA</td>
-<td style="width: 18.6876%;"> </td>
-</tr>
-<tr>
-<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">10.08.22</span></strong></td>
+<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">03.31.23</span></strong></td>
 <td style="width: 30.8085%;"><span style="color: #ce3832;"><a href="https://visitmoscowid.com/listing-single/johns-alley-tavern/" target="_blank" rel="noopener noreferrer" style="color: #ce3832;">john's ally tavern</a></span></td>
 <td style="width: 32.6723%;">moscow, ID</td>
-<td style="width: 18.6876%;"> </td>
-</tr>
-<tr>
-<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">11.18.22</span></strong></td>
-<td style="width: 30.8085%;"><span style="color: #ce3832;">the funhouse</span></td>
-<td style="width: 32.6723%;">seattle, WA</td>
-<td style="width: 18.6876%;"> </td>
-</tr>
-<tr>
-<td style="width: 17.8317%;"><strong><span style="color: #8c864c;">12.03.22</span></strong></td>
-<td style="width: 30.8085%;"><span style="color: #ce3832;">barboza</span></td>
-<td style="width: 32.6723%;">seattle, WA</td>
 <td style="width: 18.6876%;"> </td>
 </tr>
 </tbody>
@@ -315,29 +297,6 @@
 		xProductBrowser("categoriesPerRow=3", "views=grid(20,3) list(60) table(60)", "categoryView=grid", "searchView=list", "id=my-store-79150813");
 	</script>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>band</title>
-        <author>
-            <name>the bear</name>
-        </author>
-        <link href="https://fortressofthebear.com/the-band.html"/>
-        <id>https://fortressofthebear.com/the-band.html</id>
-        <media:content url="https://fortressofthebear.com/media/posts/3/bear_theband.png" medium="image" />
-
-        <updated>2022-09-15T15:25:32-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://fortressofthebear.com/media/posts/3/bear_theband.png" alt="the band" />
-                    who are fortress of the bear? coming soon
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://fortressofthebear.com/media/posts/3/bear_theband.png" class="type:primaryImage" alt="the band" /></p>
-                <h1 class="align-center">who are<br>fortress of the bear?<br><br>coming soon</h1>
             ]]>
         </content>
     </entry>
