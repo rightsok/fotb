@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://fortressofthebear.com/feed.xml" rel="self" />
     <link href="https://fortressofthebear.com" />
-    <updated>2023-04-04T16:03:54-07:00</updated>
+    <updated>2023-04-04T16:04:47-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -211,7 +211,7 @@
         <id>https://fortressofthebear.com/the-videos.html</id>
         <media:content url="https://fortressofthebear.com/media/posts/14/bear_action.png" medium="image" />
 
-        <updated>2023-04-04T15:57:21-07:00</updated>
+        <updated>2023-04-04T16:04:47-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -222,9 +222,9 @@
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/l3aeCc5ib_k" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/ZwtFogVnjeY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
 <figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/nYX29qskmZ0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
-<figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/watch?v=dtBGS_o6nBs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
-<figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/watch?v=fvNmc_1Kyiw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
-<figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/watch?v=E8R4vR-Yfkg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
+<figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/dtBGS_o6nBs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
+<figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/fvNmc_1Kyiw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
+<figure class="post__embed--16x9"><div class="post__iframe"><iframe loading="lazy" width="678" height="400" style="width: 678px; height: 400px;" src="https://www.youtube.com/embed/E8R4vR-Yfkg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
 </center>
             ]]>
         </content>
