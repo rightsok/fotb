@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://fortressofthebear.com/feed.xml" rel="self" />
     <link href="https://fortressofthebear.com" />
-    <updated>2023-06-14T08:57:11-07:00</updated>
+    <updated>2023-06-14T13:16:52-07:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://fortressofthebear.com/the-shows.html</id>
         <media:content url="https://fortressofthebear.com/media/posts/19/bear_tour.png" medium="image" />
 
-        <updated>2023-06-14T08:57:11-07:00</updated>
+        <updated>2023-06-14T13:16:52-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fortressofthebear.com/media/posts/19/bear_tour.png" alt="bear shows" />
@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td style="width: 14.9786%;"><strong><span style="color: #8c864c;">07.08.23</span></strong></td>
-<td style="width: 28.1027%;"><span style="color: #8c864c;"><a title="https://www.bbaybrewery.com/" target="_blank" rel="noopener noreferrer" style="color: #8c864c;">boundary brewing</a></span></td>
+<td style="width: 28.1027%;"><span style="color: #8c864c;"><a href="https://www.bbaybrewery.com/" target="_blank" rel="noopener noreferrer" style="color: #8c864c;">boundary bay brewing</a></span></td>
 <td style="width: 25.1135%;">bellingham</td>
 <td style="width: 31.8052%;">TBA</td>
 </tr>
