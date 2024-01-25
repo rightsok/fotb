@@ -3,7 +3,7 @@
     <title></title>
     <link href="https://fortressofthebear.com/feed.xml" rel="self" />
     <link href="https://fortressofthebear.com" />
-    <updated>2024-01-25T12:14:02-08:00</updated>
+    <updated>2024-01-25T12:17:22-08:00</updated>
     <author>
         <name>the bear</name>
     </author>
@@ -366,7 +366,7 @@
         <id>https://fortressofthebear.com/the-band.html</id>
         <media:content url="https://fortressofthebear.com/media/posts/3/bear_theband.png" medium="image" />
 
-        <updated>2024-01-25T12:14:02-08:00</updated>
+        <updated>2024-01-25T12:17:22-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fortressofthebear.com/media/posts/3/bear_theband.png" alt="the band" />
@@ -558,8 +558,7 @@
 <table style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 39.3723%;"><span style="color: #8c864c;"> </span></td>
-<td style="width: 55.7775%;">
+<td style="width: 100%;">
 <h3 class="align-center"><span style="color: #8c864c;">keola<br>kapulani</span></h3>
 <h4 class="align-center"><span style="color: #ce3832;">bass</span></h4>
 </td>
